@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime files
+seen_jobs.json
+
+# Generated outputs
+outputs/*.xlsx
+outputs/*.txt
+outputs/logs/*
+
+# OS files
+Thumbs.db
+.DS_Store
