@@ -1,0 +1,6 @@
+{
+  "max_pages_per_site": 50,
+  "request_timeout": 30,
+  "min_score": 20,
+  "save_html": false
+}

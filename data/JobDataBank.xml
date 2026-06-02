@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Rohin Ramisetty</Author>
+  <LastAuthor>Rohin Ramisetty</LastAuthor>
+  <Created>2026-06-01T19:54:17Z</Created>
+  <LastSaved>2026-06-02T11:29:22Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5295</WindowHeight>
+  <WindowWidth>14205</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66" ss:Parent="s64">
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="45" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="51" ss:DefaultRowHeight="14.25">
+   <Column ss:AutoFitWidth="0" ss:Width="135.375"/>
+   <Column ss:AutoFitWidth="0" ss:Width="147.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="125.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="493.125"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Country</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Position</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Company</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">link</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Voith</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobs.voith.com/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Job</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Airbus</Data></Cell>
+    <Cell ss:StyleID="s66" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.airbus.com/en/careers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Job</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Dana lim</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobs.dana.com/go/View-All-Jobs/9152900/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">volkswagen</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobs.volkswagen-group.com/Volkswagen-Group-Services/search/?locale=de_DE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Job</Data></Cell>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s66" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">liebherr</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.liebherr.com/en-int/careers/careers-5370600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Drager</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.draeger.com/de_de/Career</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Alten</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.alten-germany.de/en/jobs/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Polaris</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.polaris-raumflugzeuge.de/career</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">SII</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://sii-group.de/en/career-portal/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Safran</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.safran-group.com/jobs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Vertical Aerospace</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://vertical-aerospace.com/careers/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Aerzen</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.aerzen.com/career/job-offers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Pavana GMbh</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://karriere.pavana-wind.com/job-offers.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">3DS</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.3ds.com/careers/jobs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Everllence</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.everllence.com/de/karriere?utm_medium=sea&amp;utm_source=google&amp;utm_campaign=always_ao_eb_de_e_260105&amp;utm_term=eb&amp;utm_content=link&amp;utm_medium=sea&amp;utm_source=google&amp;utm_campaign=always_ao_eb_de_e_260105&amp;utm_term=eb&amp;utm_content=link&amp;gad_source=1&amp;gad_campaignid=23575478370&amp;gbraid=0AAAAA-dbNDvyj0rXYEA6gHg_jPyVZ1m5G&amp;gclid=Cj0KCQjw_vnQBhCxARIsADcZyxKg9x-lK25xKq8jUYaWZEP1hx4CJ2d7r3oQoeqTgz0wOksdoto1MKYaAoEHEALw_wcB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Kreisel</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.kreisel.eu/en/career/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Audi</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://careers.audi.com/desktop.html#/SEARCH/SIMPLE/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Siemens</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&amp;42386_format=17546&amp;42389=%5B39106405%2C144468627%2C102122%2C102134%2C102127%5D&amp;42389_format=17549&amp;42390=%5B102155%2C102156%2C102157%2C102158%5D&amp;42390_format=17550&amp;listFilterMode=1&amp;folderRecordsPerPage=9&amp;acz=1&amp;gad_source=1&amp;gad_campaignid=22145011592&amp;gbraid=0AAAAADEuPPMyJNgoWK6259Pvtj28zRinJ&amp;gclid=Cj0KCQjw_vnQBhCxARIsADcZyxJmEyEMgRhsNpWNBs2CTtWxpEEVypzsHBAepKJh_FJ6ZQbC6twdIlUaAodaEALw_wcB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">BMW</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.bmwgroup.jobs/de/de.html?clc={MarketingID}&amp;tl=sea-gl-SEA_BND_JOBS-mix-miy-.-sech-JOBS-.-p-bmw%20jobs-.-.&amp;clc=sea-gl-SEA_BND_JOBS-mix-JOBS&amp;gad_source=1&amp;gad_campaignid=12363556035&amp;gbraid=0AAAAADvNgksg-ogVU_Q69SROSPbou_eOY&amp;gclid=Cj0KCQjw_vnQBhCxARIsADcZyxIsDof2l4kdzsIPJhG4BlRJMK-LyAP6wa1U5HMvzOAn4EcRItUBwKQaAnrmEALw_wcB#location=DE&amp;&amp;jobType=STANDARD&amp;&amp;jobType=GRADUATE_JOB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">BAE sys</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobsearch.baesystems.com/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">BASF</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.basf.com/global/en/careers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Simtecto</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.simtecto.de/jobs-karriere.html</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">TGR</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://careers.tgr-europe.com/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">IAV</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.iav.com/career/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Ramboll</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.ramboll.com/de-de/karriere</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">EP Mannheim</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.ep-group.de/karriere/job-finden?utm_source=google_ads&amp;utm_campaign=g_ads_standorte&amp;keyword=job%20entwicklungsingenieur&amp;device=c&amp;network=g&amp;gad_source=1&amp;gad_campaignid=18597763329&amp;gbraid=0AAAAAByXapJHhe_g7avfyQJ_KzJnr4oVB&amp;gclid=Cj0KCQjw_vnQBhCxARIsADcZyxJj4PGTcd6VKpnCz7YPniJ6PILQHxagQH7Dh2lvvBwGVHPtEjXOYhAaAhEyEALw_wcB</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">AIP Services</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.aip-services.de/aip-karriere/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Orange engineering</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://orange.jobs/gb/en</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">DKRZ</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.dkrz.de/de/about/stellenangebote</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Rocket Factory</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">DLR</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobs.dlr.de/go/All-Jobs/9291501/?markerViewed=&amp;carouselIndex=&amp;facetFilters=%7B%22mfield1%22%3A%5B%22Graduates%22%5D%7D&amp;pageNumber=0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">MTU</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.mtu.de/careers/online-job-market/s/all/all/all/all/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Kelvion</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.kelvion.com/de/karriere/jobs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">OTTO fuchs</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.otto-fuchs.com/de/karriere/jobs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Plasmatreat</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://jobs.plasmatreat.de/de</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Ziehl</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://karriere.ziehl-abegg.de/jobs</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Rheinmetal</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.rheinmetall.com/en/career/vacancies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">Thyssenkurp</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://karriere.thyssenkrupp.com/en</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">e power systems</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.e-powerinternational.com/careers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">EDAG</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://www.edag.com/en/career/vacancies</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="String">Job</Data></Cell>
+    <Cell><Data ss:Type="String">ÒKAPI</Data></Cell>
+    <Cell ss:StyleID="s64" ss:HRef="C:\Users\Rohin\Desktop\Pythonpractice\JobScratcher\data\JobDataBank.ods"><Data
+      ss:Type="String">https://okapiorbits.jobs.personio.de/</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.30000000000000004"/>
+    <Footer x:Margin="0.30000000000000004"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.70000000000000007"
+     x:Right="0.70000000000000007" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

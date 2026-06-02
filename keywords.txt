@@ -1,0 +1,18 @@
+CFD|30
+Computational Fluid Dynamics|30
+Fluid Structure Interaction|30
+Simulation|25
+Berechnung|25
+FSI|25
+Fluid|25
+Multiphase Flow|20
+OpenFOAM|20
+Aerodynamics|20
+Aeroelasticity|20
+Flow Control|15
+Simulation Engineer|15
+Research Engineer|10
+StarCCM|20
+ANSYS|10
+Design|5
+
