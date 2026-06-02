@@ -1,0 +1,67 @@
+#!/bin/bash
+
+set -e
+
+USER_NAME=$1
+
+if [ -z "$USER_NAME" ]; then
+    echo "Usage:"
+    echo "./run_user.sh Bhakti"
+    exit 1
+fi
+
+echo ""
+echo "======================================"
+echo "JobHunter"
+echo "User: $USER_NAME"
+echo "======================================"
+echo ""
+
+REPO_ROOT="$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )"
+
+cd "$REPO_ROOT"
+
+echo "Pulling latest changes..."
+git pull origin main
+
+echo ""
+echo "Checking virtual environment..."
+
+if [ ! -d ".venv" ]; then
+    echo "Creating virtual environment..."
+    python3 -m venv .venv
+fi
+
+source .venv/bin/activate
+
+echo ""
+echo "Installing requirements..."
+pip install -r requirements.txt
+
+echo ""
+echo "Installing Playwright browser..."
+playwright install chromium
+
+echo ""
+echo "Starting crawler..."
+python3 ParallelCrawler.py \
+    --user "$USER_NAME" \
+    --concurrency 5 \
+    --min-score 45
+
+echo ""
+echo "Committing results..."
+
+git add .
+
+git commit -m "$USER_NAME run $(date '+%Y-%m-%d %H:%M')" || true
+
+echo ""
+echo "Pushing to GitHub..."
+
+git push origin main
+
+echo ""
+echo "======================================"
+echo "Finished"
+echo "======================================"
