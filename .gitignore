@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Personal runtime state
+seen_jobs.json
+users/*/seen_jobs.json
+users/*/utils/
+
+# Generated crawler outputs
+/outputs/
+users/*/outputs/*
+!users/*/outputs/.gitkeep
+
+# Generated local exports/cache
+*.log
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store

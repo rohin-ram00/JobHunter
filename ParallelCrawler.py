@@ -22,11 +22,14 @@ except ModuleNotFoundError:
         )
 
 
-EXCEL_FILE = "data/JobDataBank.ods"
-KEYWORDS_FILE = "keywords.txt"
-LOCATIONS_FILE = "locations.txt"
-SEEN_FILE = "seen_jobs.json"
-OUTPUT_DIR = "outputs"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+USERS_DIR = os.path.join(BASE_DIR, "users")
+
+EXCEL_FILE = os.path.join(BASE_DIR, "data", "JobDataBank.ods")
+KEYWORDS_FILE = os.path.join(BASE_DIR, "users", "Rohin", "keywords.txt")
+LOCATIONS_FILE = os.path.join(BASE_DIR, "users", "Rohin", "locations.txt")
+SEEN_FILE = os.path.join(BASE_DIR, "users", "Rohin", "seen_jobs.json")
+OUTPUT_DIR = os.path.join(BASE_DIR, "users", "Rohin", "outputs")
 POTENTIAL_JOBS_FILE = os.path.join(OUTPUT_DIR, "PotentialJobs.xlsx")
 POTENTIAL_JOBS_TXT_FILE = os.path.join(OUTPUT_DIR, "potential_jobs.txt")
 
@@ -444,6 +447,8 @@ async def scan_company(
 async def run_parallel_crawl(args):
     from playwright.async_api import async_playwright
 
+    configure_user_paths(args)
+
     print("Loading job database...")
 
     companies = pd.read_excel(
@@ -637,8 +642,64 @@ def parse_args():
         default=DEFAULT_MIN_SCORE,
         help="Minimum score required to save a job match.",
     )
+    parser.add_argument(
+        "--user",
+        default="Rohin",
+        help="User folder inside users/ to load preferences and save results.",
+    )
+    parser.add_argument(
+        "--data-file",
+        default=EXCEL_FILE,
+        help="Shared company database file to crawl.",
+    )
 
     return parser.parse_args()
+
+
+def resolve_user_dir(user):
+    requested = user.strip()
+    exact_path = os.path.join(
+        USERS_DIR,
+        requested,
+    )
+
+    if os.path.isdir(exact_path):
+        return exact_path
+
+    if os.path.isdir(USERS_DIR):
+        for existing_user in os.listdir(USERS_DIR):
+            if existing_user.lower() == requested.lower():
+                return os.path.join(
+                    USERS_DIR,
+                    existing_user,
+                )
+
+    raise FileNotFoundError(
+        f"User folder not found: {exact_path}"
+    )
+
+
+def configure_user_paths(args):
+    global EXCEL_FILE
+    global KEYWORDS_FILE
+    global LOCATIONS_FILE
+    global SEEN_FILE
+    global OUTPUT_DIR
+    global POTENTIAL_JOBS_FILE
+    global POTENTIAL_JOBS_TXT_FILE
+
+    user_dir = resolve_user_dir(args.user)
+
+    EXCEL_FILE = os.path.abspath(args.data_file)
+    KEYWORDS_FILE = os.path.join(user_dir, "keywords.txt")
+    LOCATIONS_FILE = os.path.join(user_dir, "locations.txt")
+    SEEN_FILE = os.path.join(user_dir, "seen_jobs.json")
+    OUTPUT_DIR = os.path.join(user_dir, "outputs")
+    POTENTIAL_JOBS_FILE = os.path.join(OUTPUT_DIR, "PotentialJobs.xlsx")
+    POTENTIAL_JOBS_TXT_FILE = os.path.join(OUTPUT_DIR, "potential_jobs.txt")
+
+    print(f"Using user profile: {os.path.basename(user_dir)}")
+    print(f"Company database: {EXCEL_FILE}")
 
 
 def main():

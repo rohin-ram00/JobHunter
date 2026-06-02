@@ -3,16 +3,12 @@
 # ==========================================
 
 NOISE_PATTERNS = [
-
-    # Authentication
     "sign in",
     "signin",
     "login",
     "log in",
     "register",
     "create account",
-
-    # Legal
     "privacy",
     "privacy policy",
     "cookie",
@@ -23,8 +19,6 @@ NOISE_PATTERNS = [
     "legal",
     "impressum",
     "accessibility",
-
-    # Company pages
     "about us",
     "about",
     "contact",
@@ -39,11 +33,9 @@ NOISE_PATTERNS = [
     "news",
     "press",
     "media",
-    "Startseite",
+    "startseite",
     "page_title",
-    "Careers",
-
-    # Student / graduate noise
+    "careers",
     "student",
     "students",
     "graduate",
@@ -51,8 +43,6 @@ NOISE_PATTERNS = [
     "internship",
     "intern",
     "working student",
-
-    # German student noise
     "praktikum",
     "praktikant",
     "werkstudent",
@@ -60,70 +50,49 @@ NOISE_PATTERNS = [
     "ausbildung",
     "duales studium",
     "studium",
-
-    # Social
     "instagram",
     "facebook",
     "linkedin",
     "youtube",
-
-    # Generic garbage
     "sitemap",
     "search results",
     "page not found",
     "404",
 ]
 
-# ==========================================
-# URL FILTERS
-# ==========================================
-
 BAD_URL_PATTERNS = [
-
     "privacy",
     "cookie",
     "terms",
     "legal",
-
     "facebook",
     "linkedin",
     "instagram",
     "youtube",
-
     "news",
     "press",
     "media",
-    "Startseite",
-    "Karriere",
+    "startseite",
+    "karriere",
     "contact",
     "locations",
     "location",
-
     "events",
     "career-events",
     "recruiting-events",
-
     "faq",
-
     "graduates",
     "students",
     "internship",
     "internships",
-
     "benefits",
     "diversity",
     "why-join",
-
     "search?",
     "search=",
 ]
 
-# ==========================================
-# LOW VALUE JOBS
-# ==========================================
-
 LOW_PRIORITY_PATTERNS = [
-
     "assembly",
     "production operator",
     "warehouse",
@@ -133,20 +102,13 @@ LOW_PRIORITY_PATTERNS = [
     "cook",
     "sales assistant",
     "retail",
-
-    # German
     "lager",
     "produktion",
     "fertigungsmitarbeiter",
     "gabelstapler",
 ]
 
-# ==========================================
-# HIGH VALUE JOBS
-# ==========================================
-
 HIGH_VALUE_PATTERNS = [
-
     "cfd",
     "simulation",
     "aerodynamics",
@@ -156,28 +118,20 @@ HIGH_VALUE_PATTERNS = [
     "ansys",
     "fsi",
     "fluid",
-
     "research engineer",
     "simulation engineer",
     "development engineer",
-
     "aeronautical",
     "flight dynamics",
-
     "r&d",
     "research",
-
     "numerical",
     "modelling",
     "modeling",
 ]
 
-# ==========================================
-# FUNCTIONS
-# ==========================================
 
 def is_noise(text):
-
     text = text.lower()
 
     return any(
@@ -187,7 +141,6 @@ def is_noise(text):
 
 
 def bad_url(url):
-
     url = url.lower()
 
     return any(
@@ -197,7 +150,6 @@ def bad_url(url):
 
 
 def low_value_job(title):
-
     title = title.lower()
 
     return any(
@@ -207,20 +159,9 @@ def low_value_job(title):
 
 
 def high_value_job(title):
-
     title = title.lower()
 
     return any(
         pattern in title
         for pattern in HIGH_VALUE_PATTERNS
-    )
-
-
-def is_noise(title):
-
-    title = title.lower()
-
-    return any(
-        pattern in title
-        for pattern in NOISE_PATTERNS
     )

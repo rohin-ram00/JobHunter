@@ -1,27 +1,26 @@
-# utils/storage.py
-
 import json
 import os
 
 
 def load_seen_jobs(filepath):
-
     if not os.path.exists(filepath):
+        os.makedirs(
+            os.path.dirname(filepath),
+            exist_ok=True,
+        )
 
         with open(
             filepath,
             "w",
-            encoding="utf-8"
+            encoding="utf-8",
         ) as f:
-
             json.dump({}, f)
 
     with open(
         filepath,
         "r",
-        encoding="utf-8"
+        encoding="utf-8",
     ) as f:
-
         return json.load(f)
 
 
@@ -40,11 +39,10 @@ def save_seen_jobs(filepath, data):
     with open(
         filepath,
         "w",
-        encoding="utf-8"
+        encoding="utf-8",
     ) as f:
-
         json.dump(
             sorted_data,
             f,
-            indent=4
+            indent=4,
         )

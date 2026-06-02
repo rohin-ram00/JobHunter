@@ -1,18 +1,24 @@
-# utils/notifications.py
+try:
+    from plyer import notification
+except ModuleNotFoundError:
+    notification = None
 
-from plyer import notification
-import winsound
+try:
+    import winsound
+except ModuleNotFoundError:
+    winsound = None
 
 
 def notify_completion(num_matches):
+    if notification is not None:
+        notification.notify(
+            title="Job Hunter Finished",
+            message=f"{num_matches} new jobs found",
+            timeout=20,
+        )
 
-    notification.notify(
-        title="Job Hunter Finished",
-        message=f"{num_matches} new jobs found",
-        timeout=20
-    )
-
-    winsound.PlaySound(
-        "SystemExclamation",
-        winsound.SND_ALIAS
-    )
+    if winsound is not None:
+        winsound.PlaySound(
+            "SystemExclamation",
+            winsound.SND_ALIAS,
+        )
