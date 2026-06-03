@@ -8,7 +8,11 @@ param(
 
     [switch]$SkipPull,
 
-    [switch]$SkipInstall
+    [switch]$SkipInstall,
+
+    [switch]$Quiet,
+
+    [switch]$NoMerge
 )
 
 $ErrorActionPreference = "Stop"
@@ -74,4 +78,42 @@ if (-not $SkipInstall) {
     & $venvPython -m playwright install chromium
 }
 
-& $venvPython .\ParallelCrawler.py --user $User --concurrency $Concurrency --min-score $MinScore
+$crawlerArgs = @(".\ParallelCrawler.py", "--user", $User, "--concurrency", $Concurrency, "--min-score", $MinScore)
+
+if ($Quiet) {
+    $crawlerArgs += "--quiet"
+}
+
+if ($NoMerge) {
+    $crawlerArgs += "--no-merge"
+}
+
+& $venvPython $crawlerArgs
+
+if (-not $NoMerge -and -not $SkipPull) {
+    $jobDataBank = Join-Path $repoRoot "data" "JobDataBank.ods"
+    
+    if (Test-Path $jobDataBank) {
+        $git = Resolve-Tool `
+            -Names @("git") `
+            -FallbackPaths @(
+                "C:\Program Files\Git\cmd\git.exe",
+                "C:\Program Files\Git\bin\git.exe",
+                "C:\Program Files (x86)\Git\cmd\git.exe"
+            ) `
+            -InstallMessage "Git was not found."
+
+        Write-Host "`nChecking for JobDataBank.ods changes..."
+        $status = & $git status --porcelain
+        
+        if ($status -match "data/JobDataBank.ods" -or $status -match "data\\JobDataBank.ods") {
+            Write-Host "Changes detected in JobDataBank.ods. Committing and merging..."
+            & $git add "data/JobDataBank.ods"
+            & $git commit -m "Auto-update JobDataBank.ods from $User run $(Get-Date -Format 'yyyy-MM-dd HHmmss')"
+            Write-Host "Changes committed successfully."
+        }
+        else {
+            Write-Host "No changes in JobDataBank.ods."
+        }
+    }
+}

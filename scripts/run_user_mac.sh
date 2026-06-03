@@ -30,9 +30,23 @@ playwright install chromium
 git pull origin main
 
 # Run crawler
-python3 ParallelCrawler.py --user "$USER"
+python3 ParallelCrawler.py --user "$1"
 
-# Push results
-git add .
-git commit -m "$USER run"
-git push origin main
+# Auto-commit and merge JobDataBank.ods changes
+REPO_ROOT="$(pwd)"
+JOB_DATA_BANK="$REPO_ROOT/data/JobDataBank.ods"
+
+if [ -f "$JOB_DATA_BANK" ]; then
+    echo ""
+    echo "Checking for JobDataBank.ods changes..."
+    
+    if git status --porcelain | grep -q "data/JobDataBank.ods"; then
+        echo "Changes detected in JobDataBank.ods. Committing..."
+        git add "data/JobDataBank.ods"
+        TIMESTAMP=$(date '+%Y-%m-%d %H%M%S')
+        git commit -m "Auto-update JobDataBank.ods from $1 run $TIMESTAMP"
+        echo "Changes committed successfully."
+    else
+        echo "No changes in JobDataBank.ods."
+    fi
+fi

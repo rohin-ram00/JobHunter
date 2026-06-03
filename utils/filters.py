@@ -130,6 +130,38 @@ HIGH_VALUE_PATTERNS = [
     "modeling",
 ]
 
+START_SITE_PATTERNS = [
+    "startseite",
+    "home page",
+    "homepage",
+    "home",
+    "start page",
+    "main page",
+]
+
+BASIC_PAGE_PATTERNS = [
+    "404",
+    "page not found",
+    "error page",
+    "sitemap",
+    "search results",
+]
+
+NON_ENGLISH_GERMAN_INDICATORS = [
+    "español",
+    "français",
+    "italiano",
+    "português",
+    "русский",
+    "中文",
+    "日本語",
+    "한국어",
+    "ไทย",
+    "فارسی",
+    "עברית",
+    "العربية",
+]
+
 
 def is_noise(text):
     text = text.lower()
@@ -164,4 +196,31 @@ def high_value_job(title):
     return any(
         pattern in title
         for pattern in HIGH_VALUE_PATTERNS
+    )
+
+
+def is_start_site(text):
+    text = text.lower()
+    
+    return any(
+        pattern in text
+        for pattern in START_SITE_PATTERNS
+    )
+
+
+def is_basic_page(text):
+    text = text.lower()
+    
+    return any(
+        pattern in text
+        for pattern in BASIC_PAGE_PATTERNS
+    )
+
+
+def is_non_english_german(text):
+    text = text.lower()
+    
+    return any(
+        pattern.lower() in text
+        for pattern in NON_ENGLISH_GERMAN_INDICATORS
     )
