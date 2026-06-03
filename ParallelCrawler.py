@@ -1,5 +1,6 @@
 import argparse
 import asyncio
+import json
 import os
 import re
 from datetime import datetime, timedelta
@@ -9,7 +10,15 @@ from urllib.parse import urljoin
 import pandas as pd
 
 from crawlers.detector import detect_portal
-from utils.filters import bad_url, high_value_job, is_noise, low_value_job
+from utils.filters import (
+    bad_url,
+    high_value_job,
+    is_noise,
+    low_value_job,
+    is_start_site,
+    is_basic_page,
+    is_non_english_german,
+)
 from utils.scoring import score_job
 from utils.storage import load_seen_jobs, save_seen_jobs
 
@@ -305,6 +314,54 @@ async def score_job_page(
                 "Decision": "Skipped noise",
             }
 
+        if is_start_site(title) or is_start_site(visible_text[:500]):
+            return {
+                "CrawlDate": str(datetime.today().date()),
+                "PostedDate": posted_date,
+                "Company": company,
+                "Country": country,
+                "Type": job_type,
+                "Title": title,
+                "URL": link,
+                "Score": score,
+                "Keywords": ", ".join(matched),
+                "Locations": "",
+                "Matched": False,
+                "Decision": "Skipped start site",
+            }
+
+        if is_basic_page(title) or is_basic_page(visible_text[:500]):
+            return {
+                "CrawlDate": str(datetime.today().date()),
+                "PostedDate": posted_date,
+                "Company": company,
+                "Country": country,
+                "Type": job_type,
+                "Title": title,
+                "URL": link,
+                "Score": score,
+                "Keywords": ", ".join(matched),
+                "Locations": "",
+                "Matched": False,
+                "Decision": "Skipped basic page",
+            }
+
+        if is_non_english_german(title) or is_non_english_german(visible_text[:1000]):
+            return {
+                "CrawlDate": str(datetime.today().date()),
+                "PostedDate": posted_date,
+                "Company": company,
+                "Country": country,
+                "Type": job_type,
+                "Title": title,
+                "URL": link,
+                "Score": score,
+                "Keywords": ", ".join(matched),
+                "Locations": "",
+                "Matched": False,
+                "Decision": "Skipped non-English/German",
+            }
+
         if low_value_job(title):
             score -= 15
 
@@ -535,6 +592,8 @@ def save_results(matches, scored_jobs):
     results = pd.DataFrame(matches)
     potential_results = pd.DataFrame(scored_jobs)
     today = str(datetime.today().date())
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    sheet_name = today.replace("-", "")[:8] + "_" + datetime.now().strftime("%H%M")
 
     excel_out = os.path.join(
         OUTPUT_DIR,
@@ -543,6 +602,10 @@ def save_results(matches, scored_jobs):
     txt_out = os.path.join(
         OUTPUT_DIR,
         "matches.txt",
+    )
+    json_out = os.path.join(
+        OUTPUT_DIR,
+        "matched_jobs.json",
     )
 
     if len(potential_results) > 0:
@@ -556,11 +619,11 @@ def save_results(matches, scored_jobs):
                 POTENTIAL_JOBS_FILE,
                 engine="openpyxl",
                 mode="a",
-                if_sheet_exists="replace",
+                if_sheet_exists="overlay",
             ) as writer:
                 potential_results.to_excel(
                     writer,
-                    sheet_name=today,
+                    sheet_name=sheet_name,
                     index=False,
                 )
         else:
@@ -570,7 +633,7 @@ def save_results(matches, scored_jobs):
             ) as writer:
                 potential_results.to_excel(
                     writer,
-                    sheet_name=today,
+                    sheet_name=sheet_name,
                     index=False,
                 )
 
@@ -594,11 +657,11 @@ def save_results(matches, scored_jobs):
             excel_out,
             engine="openpyxl",
             mode="a",
-            if_sheet_exists="replace",
+            if_sheet_exists="overlay",
         ) as writer:
             results.to_excel(
                 writer,
-                sheet_name=today,
+                sheet_name=sheet_name,
                 index=False,
             )
     else:
@@ -608,7 +671,7 @@ def save_results(matches, scored_jobs):
         ) as writer:
             results.to_excel(
                 writer,
-                sheet_name=today,
+                sheet_name=sheet_name,
                 index=False,
             )
 
@@ -617,6 +680,14 @@ def save_results(matches, scored_jobs):
         sep="\t",
         index=False,
     )
+
+    matched_json = results.sort_values(
+        ["CrawlDate", "Score"],
+        ascending=[False, False],
+    ).to_dict(orient="records")
+
+    with open(json_out, "w", encoding="utf-8") as f:
+        json.dump(matched_json, f, indent=2, ensure_ascii=False)
 
     notify_completion(len(results))
 
@@ -651,6 +722,16 @@ def parse_args():
         "--data-file",
         default=EXCEL_FILE,
         help="Shared company database file to crawl.",
+    )
+    parser.add_argument(
+        "--quiet",
+        action="store_true",
+        help="Suppress verbose output during crawling.",
+    )
+    parser.add_argument(
+        "--no-merge",
+        action="store_true",
+        help="Skip git merge of JobDataBank.ods after run.",
     )
 
     return parser.parse_args()
