@@ -59,6 +59,12 @@ Run for Bhakti:
 .\scripts\run_user.ps1 -User Bhakti
 ```
 
+Update the repo on macOS:
+
+```bash
+./scripts/update_repo.sh
+```
+
 You can also run directly:
 
 ```powershell
