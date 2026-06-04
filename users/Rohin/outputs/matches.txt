@@ -1,3 +1,2 @@
 Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Locations	Matched	Decision
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Senior Expert Network & Security Architecture (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/senior_expert_network___security_architecture__m_w_d_/778061	50	Entwicklung, Design	Germany, UK	True	Matched
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Mitarbeiter Qualitätssicherung mit Schwerpunkt Mechanik (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/mitarbeiter_qualitaetssicherung_mit_schwerpunkt_mechanik__m_w_d_/782153	40	Entwicklung	Germany	True	Matched
+2026-06-04	2026-06-04		Dawn aero	Netherlands	Job	Job Application for Mechanical Engineer at Dawn Aerospace	https://job-boards.anz.greenhouse.io/dawnaerospace/jobs/4003811201	111	CFD, Simulation, Fluid, Design	Netherland, France	True	Matched
