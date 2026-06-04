@@ -173,5 +173,250 @@
         "posted_date": "",
         "score": 85,
         "company": "Fraunhofer"
+    },
+    "https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html": {
+        "title": "Early career programs in the energy sector",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 41,
+        "company": "Siemens"
+    },
+    "https://www.rheinmetall.com/en/job/angebotsleiter___bid_manager__m_w_d_/766025": {
+        "title": "Angebotsleiter / Bid Manager (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 40,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/bid___proposal_manager_service__m_w_d_/776369": {
+        "title": "Bid & Proposal Manager - Service (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 40,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/operativer_einkaeufer___materialmanager__m_w_d_/769019": {
+        "title": "Operativer Eink\u00e4ufer / Materialmanager (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 45,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/systemingenieur_systemanalyse_und_systementwurf__m_w_d_/769955": {
+        "title": "Systemingenieur Systemanalyse und Systementwurf (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 40,
+        "company": "Rheinmetal"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4644845101": {
+        "title": "Job Application for Senior CFD Engineer - Turbomachinery at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 145,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4652630101": {
+        "title": "Job Application for Machine Learning Software Engineer, Research at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 75,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4652632101": {
+        "title": "Job Application for Research Scientist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 75,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4652633101": {
+        "title": "Job Application for Research Scientist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 75,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101": {
+        "title": "Job Application for Senior Machine Learning Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 100,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4699630101": {
+        "title": "Job Application for Senior Product Designer, Client-Facing at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4749996101": {
+        "title": "Job Application for Machine Learning Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 100,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4749999101": {
+        "title": "Job Application for Principal Machine Learning Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 100,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4750020101": {
+        "title": "Job Application for Senior CFD Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 195,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4750023101": {
+        "title": "Job Application for Senior FEA Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 90,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4763024101": {
+        "title": "Job Application for Principal CFD Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 210,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101": {
+        "title": "Job Application for Principal Machine Learning Infrastructure Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 100,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4789254101": {
+        "title": "Job Application for Senior Simulation Data Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 225,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4789290101": {
+        "title": "Job Application for Senior Software Engineer - AI Workbench at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4820418101": {
+        "title": "Job Application for Software Engineer - Go & Python (Core Services) at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4824923101": {
+        "title": "Job Application for Core Services - Software Engineer (Frontend) at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4845687101": {
+        "title": "Job Application for Senior CFD Engineer - Multiphase at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 195,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4845916101": {
+        "title": "Job Application for Simulation Engineer - FEA at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 85,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101": {
+        "title": "Job Application for Machine Learning Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4851193101": {
+        "title": "Job Application for Principal Research Scientist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 75,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4851342101": {
+        "title": "Job Application for Staff Machine Learning Software Engineer, Research at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 75,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4852973101": {
+        "title": "Job Application for Senior Computer Vision Data Scientist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 80,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4871700101": {
+        "title": "Job Application for Senior Simulation Engineer - Electromagnetics Specialist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 85,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4880922101": {
+        "title": "Job Application for Data Scientist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4880929101": {
+        "title": "Job Application for Data Scientist at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101": {
+        "title": "Job Application for Machine Learning Engineer at PhysicsX",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "PhysicsX"
+    },
+    "https://www.mbda-careers.de/arbeitgeber/standorte/": {
+        "title": "Standorte \u2013 Karriereportal MBDA Deutschland",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 80,
+        "company": "Mbda"
+    },
+    "https://www.mbda-careers.de/arbeitgeber/standorte/schrobenhausen/": {
+        "title": "Schrobenhausen \u2013 Karriereportal MBDA Deutschland",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 80,
+        "company": "Mbda"
+    },
+    "https://www.mbda-careers.de/arbeitgeber/unternehmen/mbda-deutschland/": {
+        "title": "MBDA Deutschland \u2013 Karriereportal MBDA Deutschland",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 80,
+        "company": "Mbda"
+    },
+    "https://www.mbda-careers.de/datenschutz/": {
+        "title": "Datenschutz \u2013 Karriereportal MBDA Deutschland",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 85,
+        "company": "Mbda"
     }
 }
