@@ -576,6 +576,21 @@
     "Company": "Agentur fur arbeit",
     "Country": "Germany",
     "Type": "Job",
+    "Title": "Ingenieur Schiffsentwurf (m/w/d) bei Brunel GmbH",
+    "URL": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR-286019_612846LS-S",
+    "Score": 190,
+    "Keywords": "CFD, Entwicklung, Simulation, Berechnung, OpenFOAM",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Agentur fur arbeit",
+    "Country": "Germany",
+    "Type": "Job",
     "Title": "Junior Projektingenieur Flugkörpersignatorik (m/w/d) bei IABG Industrieanlagen Betriebs-GmbH",
     "URL": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002937911-S",
     "Score": 180,
@@ -595,6 +610,21 @@
     "URL": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12262-13765889-S",
     "Score": 180,
     "Keywords": "CFD, Entwicklung, Simulation, Berechnung, ANSYS",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Agentur fur arbeit",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "CFD Software Engineer bei Siemens AG",
+    "URL": "https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1583076-1-S",
+    "Score": 165,
+    "Keywords": "CFD, Simulation, Fluid, Aerodynamics, Design",
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped start site"
@@ -670,6 +700,21 @@
     "URL": "https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002932333-S",
     "Score": 105,
     "Keywords": "CFD, Entwicklung, Simulation",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "liebherr",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Professionals - eDevelopment and software",
+    "URL": "https://www.liebherr.com/en-int/careers/professionals/edevelopment-and-software-5370620",
+    "Score": 105,
+    "Keywords": "Entwicklung, Simulation, Berechnung, Design",
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped start site"
@@ -1260,6 +1305,21 @@
     "Decision": "Matched"
   },
   {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rheinmetal",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Senior Expert Network & Security Architecture (m/w/d) | Rheinmetall",
+    "URL": "https://www.rheinmetall.com/en/job/senior_expert_network___security_architecture__m_w_d_/778061",
+    "Score": 50,
+    "Keywords": "Entwicklung, Design",
+    "Locations": "Germany, UK",
+    "Matched": true,
+    "Decision": "Matched"
+  },
+  {
     "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
@@ -1333,6 +1393,36 @@
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped noise"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rheinmetal",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Lacktechnologe (m/w/d) | Rheinmetall",
+    "URL": "https://www.rheinmetall.com/en/job/lacktechnologe__m_w_d_/767438",
+    "Score": 45,
+    "Keywords": "Entwicklung",
+    "Locations": "Germany, UK",
+    "Matched": true,
+    "Decision": "Matched"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rheinmetal",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Schweissfachingenieur (m/w/d) | Rheinmetall",
+    "URL": "https://www.rheinmetall.com/en/job/schweissfachingenieur__m_w_d_/767402",
+    "Score": 45,
+    "Keywords": "Entwicklung",
+    "Locations": "Germany, UK",
+    "Matched": true,
+    "Decision": "Matched"
   },
   {
     "Date": "2026-06-04",
@@ -1483,6 +1573,51 @@
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "TESA",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Current Vacancies - tesa",
+    "URL": "https://www.tesa.com/en/about-tesa/career/current-vacancies",
+    "Score": 40,
+    "Keywords": "Simulation, Simulation Engineer",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rheinmetal",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Ingenieur elektrische Entwicklungen (m/w/d) | Rheinmetall",
+    "URL": "https://www.rheinmetall.com/en/job/ingenieur_elektrische_entwicklungen__m_w_d_/768974",
+    "Score": 40,
+    "Keywords": "Entwicklung",
+    "Locations": "Germany",
+    "Matched": true,
+    "Decision": "Matched"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rheinmetal",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Mitarbeiter Qualitätssicherung mit Schwerpunkt Mechanik (m/w/d) | Rheinmetall",
+    "URL": "https://www.rheinmetall.com/en/job/mitarbeiter_qualitaetssicherung_mit_schwerpunkt_mechanik__m_w_d_/782153",
+    "Score": 40,
+    "Keywords": "Entwicklung",
+    "Locations": "Germany",
+    "Matched": true,
+    "Decision": "Matched"
   },
   {
     "Date": "2026-06-04",
@@ -2793,21 +2928,6 @@
     "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
-    "Company": "liebherr",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Professionals - eDevelopment and software",
-    "URL": "https://www.liebherr.com/en-int/careers/professionals/edevelopment-and-software-5370620",
-    "Score": 30,
-    "Keywords": "Simulation, Design",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Skipped start site"
-  },
-  {
-    "Date": NaN,
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
@@ -2886,7 +3006,7 @@
     "Company": "Rocket Factory",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Job Application for Intern (m/f/d) Software Engineer Mission Analysis at Rocket Factory Augsburg AG",
+    "Title": "page_title",
     "URL": "https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4828112101",
     "Score": 30,
     "Keywords": "Simulation, Design",
@@ -3261,7 +3381,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Commercial Sales Manager - Mexico - 295993 - Siemens Energy - Careers Marketplace",
+    "Title": "Commercial Sales Manager - Mexico - 295993 - Siemens Gamesa - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Commercial-Sales-Manager/295993",
     "Score": 30,
     "Keywords": "Technical Sales",
@@ -3276,7 +3396,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Expert for Operational IT & Digital (w/m/d) - Germany - 297248 - Siemens Gamesa - Careers Marketplace",
+    "Title": "Expert for Operational IT & Digital (w/m/d) - Germany - 297248 - Siemens Energy - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Expert-for-Operational-IT-Digital-w-m-d/297248",
     "Score": 30,
     "Keywords": "Entwicklung",
@@ -3330,6 +3450,52 @@
     "Decision": "Skipped noise"
   },
   {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "liebherr",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Direct entry at Liebherr",
+    "URL": "https://www.liebherr.com/en-int/careers/young-professionals/direct-entry-5370636",
+    "Score": 30,
+    "Keywords": "Entwicklung",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Dana lim",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Karrieren bei Dana Incorporated",
+    "URL": "https://jobs.dana.com?locale=de_CH",
+    "Score": 30,
+    "Keywords": "Entwicklung",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Below threshold"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Dana lim",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Karrieren bei Dana Incorporated",
+    "URL": "https://jobs.dana.com?locale=de_DE",
+    "Score": 30,
+    "Keywords": "Entwicklung",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Below threshold"
+  },
+  {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -3341,8 +3507,7 @@
     "Keywords": "Simulation",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "Date": NaN,
@@ -3370,21 +3535,6 @@
     "URL": "https://www.mtu.de/careers/job-areas/it/",
     "Score": 25,
     "Keywords": "Simulation",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Skipped start site"
-  },
-  {
-    "Date": NaN,
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "Helsing",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Técnico Mecatrónico - Robotics – Helsing",
-    "URL": "https://helsing.ai/jobs/4809133101",
-    "Score": 25,
-    "Keywords": "Fluid",
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped start site"
@@ -3735,19 +3885,19 @@
     "Decision": "Skipped start site"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
-    "Company": "Rheinmetal",
+    "Company": "Rocket Factory",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Senior Expert Network & Security Architecture (m/w/d) | Rheinmetall",
-    "URL": "https://www.rheinmetall.com/en/job/senior_expert_network___security_architecture__m_w_d_/778061",
+    "Title": "Job Application for Systems Administrator - Windows (m/f/d) at Rocket Factory Augsburg AG",
+    "URL": "https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4876066101",
     "Score": 20,
     "Keywords": "Design",
     "Locations": "Germany, UK",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "Date": "2026-06-04",
@@ -4050,6 +4200,7 @@
     "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Rheinmetal",
@@ -4061,10 +4212,10 @@
     "Keywords": "",
     "Locations": "Germany",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Rheinmetal",
@@ -4076,10 +4227,10 @@
     "Keywords": "",
     "Locations": "Germany",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Rheinmetal",
@@ -4091,8 +4242,7 @@
     "Keywords": "",
     "Locations": "Germany",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "Date": "2026-06-04",
@@ -4296,7 +4446,7 @@
     "Company": "James Fischer",
     "Country": "England",
     "Type": "Job",
-    "Title": "57 Vacancies - James Fisher and Sons plc",
+    "Title": "59 Vacancies - James Fisher and Sons plc",
     "URL": "https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=list",
     "Score": 10,
     "Keywords": "Design",
@@ -4305,19 +4455,19 @@
     "Decision": "Below threshold"
   },
   {
-    "Date": NaN,
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
-    "Company": "Rocket Factory",
+    "Company": "ENERCON",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "page_title",
-    "URL": "https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4876066101",
+    "Title": "Logistic Coordinator Job Details | ENERCON",
+    "URL": "https://career.enercon.de/job/Fleurus-Logistic-Coordinator-6220/1354443955/",
     "Score": 5,
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Skipped noise"
+    "Decision": "Below threshold"
   },
   {
     "Date": "2026-06-04",
@@ -4455,6 +4605,7 @@
     "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4466,10 +4617,10 @@
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4481,10 +4632,10 @@
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4496,10 +4647,10 @@
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4511,10 +4662,10 @@
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4526,10 +4677,10 @@
     "Keywords": "",
     "Locations": "UK",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4541,10 +4692,10 @@
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4556,10 +4707,10 @@
     "Keywords": "Design",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4571,10 +4722,10 @@
     "Keywords": "",
     "Locations": "UK",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -4586,8 +4737,7 @@
     "Keywords": "",
     "Locations": "UK",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "Date": NaN,
@@ -5961,7 +6111,7 @@
     "Company": "Rocket Factory",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "page_title",
+    "Title": "Job Application for Intern (m/f/d) 3D Printing/Additive Manufacturing at Rocket Factory Augsburg AG",
     "URL": "https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4823887101",
     "Score": 5,
     "Keywords": "Design",
@@ -7233,21 +7383,6 @@
     "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
-    "Company": "Vertical Aerospace",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Careers · Vertical Aerospace",
-    "URL": "https://vertical-aerospace.com/careers/",
-    "Score": 5,
-    "Keywords": "Design",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Skipped noise"
-  },
-  {
-    "Date": NaN,
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
@@ -7371,21 +7506,6 @@
     "Company": "ENERCON",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Logistic Coordinator Job Details | ENERCON",
-    "URL": "https://career.enercon.de/job/Fleurus-Logistic-Coordinator-6220/1354443955/",
-    "Score": 5,
-    "Keywords": "Design",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Below threshold"
-  },
-  {
-    "Date": "2026-06-04",
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "ENERCON",
-    "Country": "Germany",
-    "Type": "Job",
     "Title": "SQA Job Details | ENERCON",
     "URL": "https://career.enercon.de/job/Jabbeke-SQA-8490/1354442555/",
     "Score": 5,
@@ -7393,21 +7513,6 @@
     "Locations": "",
     "Matched": false,
     "Decision": "Below threshold"
-  },
-  {
-    "Date": NaN,
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "Helsing",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Events Manager – Helsing",
-    "URL": "https://helsing.ai/jobs/4816634101",
-    "Score": 5,
-    "Keywords": "Design",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Skipped noise"
   },
   {
     "Date": "2026-06-04",
@@ -7488,16 +7593,211 @@
     "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
-    "Company": "liebherr",
+    "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Direct entry at Liebherr",
-    "URL": "https://www.liebherr.com/en-int/careers/young-professionals/direct-entry-5370636",
+    "Title": "Coating Engineer - United States of America - 297024 - Siemens Energy - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Coating-Engineer/297024",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "IT Service Operations Lead Job | Samlesbury | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/it-service-operations-lead-00136277",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Principal Engineer – Software Assurance Job | Various | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/principal-engineer-software-assurance-00135617",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Principal Product Safety Engineer Job | Portsmouth BroadOak | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/principal-product-safety-engineer-00134266",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Senior Software Engineer Job | London, GB | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/senior-software-engineer-123134",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Technical Authority – Shared Infrastructure Job | New Malden | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/technical-authority-shared-infrastructure-00135773",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Technical Manager – Integration Job | HQ Riyad | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/technical-manager-integration-00137121",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Application Software Development Engineer - Gas Turbine Controls / Ingénieur en développement de logiciels d’application pour le contrôle des turbines à gaz - Canada - 297277 - Siemens Energy - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Application-Software-Development-Engineer-Gas-Turbine-Controls-Ing-nieur-en-d-veloppement-de-logiciels-d-application-pour-le-contr-le-des-turbines-gaz/297277",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "SCADA Network Engineer - United States of America - 296536 - Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SCADA-Network-Engineer/296536",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "MTU",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Associate (entry-level) Engineer - MTU Aero Engines",
+    "URL": "https://www.mtu.de/careers/online-job-market/job-posting/associate-entry-level-engineer/",
+    "Score": 5,
+    "Keywords": "Design",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Airbus",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "",
+    "URL": "https://www.airbus.com/en/careers/belfast",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Below threshold"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Vertical Aerospace",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Careers · Vertical Aerospace",
+    "URL": "https://vertical-aerospace.com/careers/",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Helsing",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Técnico Mecatrónico - Robotics – Helsing",
+    "URL": "https://helsing.ai/jobs/4809133101",
     "Score": 0,
     "Keywords": "",
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Helsing",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Events Manager – Helsing",
+    "URL": "https://helsing.ai/jobs/4816634101",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
   },
   {
     "Date": "2026-06-04",
@@ -7528,21 +7828,6 @@
     "Locations": "",
     "Matched": false,
     "Decision": "Skipped start site"
-  },
-  {
-    "Date": "2026-06-04",
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "Airbus",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "",
-    "URL": "https://www.airbus.com/en/careers/belfast",
-    "Score": 0,
-    "Keywords": "",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Below threshold"
   },
   {
     "Date": NaN,
@@ -7725,6 +8010,7 @@
     "Decision": "Skipped noise"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7736,10 +8022,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7751,10 +8037,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7766,10 +8052,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7781,8 +8067,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "CrawlDate": "2026-06-04",
@@ -7800,6 +8085,7 @@
     "Date": "2026-06-04"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7811,10 +8097,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7826,10 +8112,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7841,10 +8127,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7856,10 +8142,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7871,10 +8157,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7886,10 +8172,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7901,10 +8187,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7916,10 +8202,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7931,10 +8217,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7946,10 +8232,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7961,10 +8247,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7976,10 +8262,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -7991,10 +8277,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8006,8 +8292,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "CrawlDate": "2026-06-04",
@@ -8025,6 +8310,7 @@
     "Date": "2026-06-04"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8036,10 +8322,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8051,10 +8337,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8066,10 +8352,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8081,10 +8367,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8096,8 +8382,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "CrawlDate": "2026-06-04",
@@ -8115,36 +8400,7 @@
     "Date": "2026-06-04"
   },
   {
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "Dana lim",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Karrieren bei Dana Incorporated",
-    "URL": "https://jobs.dana.com?locale=de_CH",
-    "Score": 0,
-    "Keywords": "",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
-  },
-  {
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "Dana lim",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Karrieren bei Dana Incorporated",
-    "URL": "https://jobs.dana.com?locale=de_DE",
-    "Score": 0,
-    "Keywords": "",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
-  },
-  {
+    "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8156,10 +8412,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Skipped noise",
-    "Date": NaN
+    "Decision": "Skipped noise"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8171,10 +8427,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8186,10 +8442,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8201,8 +8457,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "CrawlDate": "2026-06-04",
@@ -8220,6 +8475,7 @@
     "Date": "2026-06-04"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8231,10 +8487,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8246,8 +8502,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "CrawlDate": "2026-06-04",
@@ -8265,6 +8520,7 @@
     "Date": "2026-06-04"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8276,10 +8532,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8291,10 +8547,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8306,10 +8562,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8321,10 +8577,10 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Dana lim",
@@ -8336,8 +8592,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Below threshold",
-    "Date": "2026-06-04"
+    "Decision": "Below threshold"
   },
   {
     "Date": "2026-06-04",
@@ -9960,7 +10215,7 @@
     "Decision": "Skipped start site"
   },
   {
-    "Date": NaN,
+    "Date": "2026-06-04",
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "BASF",
@@ -9972,7 +10227,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Skipped start site"
+    "Decision": "Below threshold"
   },
   {
     "Date": NaN,
@@ -11310,6 +11565,7 @@
     "Decision": "Skipped noise"
   },
   {
+    "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Rheinmetal",
@@ -11321,8 +11577,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Skipped noise",
-    "Date": NaN
+    "Decision": "Skipped noise"
   },
   {
     "Date": NaN,
@@ -11723,21 +11978,6 @@
     "Type": "Job",
     "Title": "Career - tesa",
     "URL": "https://www.tesa.com/en/about-tesa/career",
-    "Score": 0,
-    "Keywords": "",
-    "Locations": "",
-    "Matched": false,
-    "Decision": "Skipped start site"
-  },
-  {
-    "Date": NaN,
-    "CrawlDate": "2026-06-04",
-    "PostedDate": "",
-    "Company": "TESA",
-    "Country": "Germany",
-    "Type": "Job",
-    "Title": "Current Vacancies - tesa",
-    "URL": "https://www.tesa.com/en/about-tesa/career/current-vacancies",
     "Score": 0,
     "Keywords": "",
     "Locations": "",
@@ -12855,6 +13095,7 @@
     "Decision": "Skipped start site"
   },
   {
+    "Date": NaN,
     "CrawlDate": "2026-06-04",
     "PostedDate": "",
     "Company": "Helsing",
@@ -12866,8 +13107,7 @@
     "Keywords": "",
     "Locations": "",
     "Matched": false,
-    "Decision": "Skipped start site",
-    "Date": NaN
+    "Decision": "Skipped start site"
   },
   {
     "Date": "2026-06-04",
@@ -13671,7 +13911,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Project Construction & Installation Manager - United States of America - 292521 - Siemens Energy - Careers Marketplace",
+    "Title": "Project Construction & Installation Manager - United States of America - 292521 - Siemens Gamesa - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Construction-Installation-Manager/292521",
     "Score": 0,
     "Keywords": "",
@@ -13806,7 +14046,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Login | Siemens Energy - Careers Marketplace",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=295993",
     "Score": 0,
     "Keywords": "",
@@ -14031,7 +14271,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "Title": "Login | Siemens Energy - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297348",
     "Score": 0,
     "Keywords": "",
@@ -14061,7 +14301,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Login | Siemens Energy - Careers Marketplace",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297411",
     "Score": 0,
     "Keywords": "",
@@ -14076,7 +14316,7 @@
     "Company": "Siemens",
     "Country": "Germany",
     "Type": "Job",
-    "Title": "Login | Siemens Energy - Careers Marketplace",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
     "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297417",
     "Score": 0,
     "Keywords": "",
@@ -14316,7 +14556,7 @@
     "Company": "James Fischer",
     "Country": "England",
     "Type": "Job",
-    "Title": "57 Vacancies - James Fisher and Sons plc",
+    "Title": "59 Vacancies - James Fisher and Sons plc",
     "URL": "https://vacancies.james-fisher.com",
     "Score": 0,
     "Keywords": "",
@@ -14361,7 +14601,7 @@
     "Company": "James Fischer",
     "Country": "England",
     "Type": "Job",
-    "Title": "57 Vacancies - James Fisher and Sons plc",
+    "Title": "59 Vacancies - James Fisher and Sons plc",
     "URL": "https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx",
     "Score": 0,
     "Keywords": "",
@@ -14391,7 +14631,7 @@
     "Company": "James Fischer",
     "Country": "England",
     "Type": "Job",
-    "Title": "57 Vacancies - James Fisher and Sons plc",
+    "Title": "59 Vacancies - James Fisher and Sons plc",
     "URL": "https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=grid",
     "Score": 0,
     "Keywords": "",
@@ -14406,7 +14646,7 @@
     "Company": "James Fischer",
     "Country": "England",
     "Type": "Job",
-    "Title": "57 Vacancies - James Fisher and Sons plc",
+    "Title": "59 Vacancies - James Fisher and Sons plc",
     "URL": "https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=map",
     "Score": 0,
     "Keywords": "",
@@ -14421,7 +14661,7 @@
     "Company": "James Fischer",
     "Country": "England",
     "Type": "Job",
-    "Title": "57 Vacancies - James Fisher and Sons plc",
+    "Title": "59 Vacancies - James Fisher and Sons plc",
     "URL": "https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=smalllist",
     "Score": 0,
     "Keywords": "",
@@ -14513,6 +14753,306 @@
     "Type": "Job",
     "Title": "Aerospace, Aviation & Marine Engineering Careers UK",
     "URL": "https://www.stirling-dynamics.com/jobs",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Analista de Qualidade Sr - Jundiaí - Brazil - 297235 - Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Analista-de-Qualidade-Sr-Jundia/297235",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Complex Projects Order Manager - United States of America - 295409 - Siemens Energy - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Complex-Projects-Order-Manager/295409",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Ingeniero de Manufactura - Mexico - 297114 - Siemens Energy - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Ingeniero-de-Manufactura/297114",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Manufacturing Process & Equipment Specialist-Fábrica de transformadores - Colombia - 297115 - Siemens Energy - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Manufacturing-Process-Equipment-Specialist-F-brica-de-transformadores/297115",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Supervisor de embarques - Mexico - 297325 - Siemens Energy - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Supervisor-de-embarques/297325",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=295409",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297024",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297114",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297115",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297235",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297325",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Central SHE Advisor – Governance & Systems Job | Washington | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/central-she-advisor-governance-systems-00136620",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "English Language Instructor Job | Dhahran | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/english-language-instructor-00137115",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Project Controls Manager Job | Portsmouth BroadOak | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/project-controls-manager-00136572",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "BAE sys",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Security Associate – Classifier Job | Barrow-in-Furness | BAE Systems",
+    "URL": "https://jobsearch.baesystems.com/job/security-associate-classifier-00136771",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped start site"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Dana lim",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "General Production Job Details | Dana Incorporated",
+    "URL": "https://jobs.dana.com/job/Mount-Forest-General-Production-ON-N0G-2L1/1396854800/",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Below threshold"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Dana lim",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "General Worker Job Details | Dana Incorporated",
+    "URL": "https://jobs.dana.com/job/Tlalnepantla-General-Worker-Mexi-54180/1396834100/",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Below threshold"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296536",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Siemens",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Login | Siemens Gamesa - Careers Marketplace",
+    "URL": "https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297277",
+    "Score": 0,
+    "Keywords": "",
+    "Locations": "",
+    "Matched": false,
+    "Decision": "Skipped noise"
+  },
+  {
+    "Date": NaN,
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rheinmetal",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Ausbildung zur Fachkraft für Lagerlogistik ab 2026 (m/w/d) | Rheinmetall",
+    "URL": "https://www.rheinmetall.com/en/job/ausbildung_zur_fachkraft_fuer_lagerlogistik_ab_2026__m_w_d_/779015",
     "Score": 0,
     "Keywords": "",
     "Locations": "",

@@ -418,5 +418,40 @@
         "posted_date": "",
         "score": 85,
         "company": "Mbda"
+    },
+    "https://www.rheinmetall.com/en/job/ingenieur_elektrische_entwicklungen__m_w_d_/768974": {
+        "title": "Ingenieur elektrische Entwicklungen (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 40,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/lacktechnologe__m_w_d_/767438": {
+        "title": "Lacktechnologe (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 45,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/schweissfachingenieur__m_w_d_/767402": {
+        "title": "Schweissfachingenieur (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 45,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/mitarbeiter_qualitaetssicherung_mit_schwerpunkt_mechanik__m_w_d_/782153": {
+        "title": "Mitarbeiter Qualit\u00e4tssicherung mit Schwerpunkt Mechanik (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 40,
+        "company": "Rheinmetal"
+    },
+    "https://www.rheinmetall.com/en/job/senior_expert_network___security_architecture__m_w_d_/778061": {
+        "title": "Senior Expert Network & Security Architecture (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-04",
+        "posted_date": "",
+        "score": 50,
+        "company": "Rheinmetal"
     }
 }

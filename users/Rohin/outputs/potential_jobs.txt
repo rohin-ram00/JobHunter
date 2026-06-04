@@ -32,58 +32,27 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04	2026-05-08	MTU	Germany	Job	Intern Graphical user interface development for mechanical predesign calculations (all genders) - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/intern-graphical-user-interface-development-for-mechanical-predesign-calculations-all-genders/	5	Design		False	Skipped noise
 	2026-06-04	2026-05-06	MTU	Germany	Job	Flying Fuel Cell Mechanical Design and Integration Engineer (all genders) - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/flying-fuel-cell-mechanical-design-and-integration-engineer-all-genders/	5	Design		False	Skipped start site
 	2026-06-04	2026-05-06	MTU	Germany	Job	Sales Director - Parts Repair Services (all genders) - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/sales-director-parts-repair-services-all-genders/	0			False	Skipped start site
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior Simulation Data Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4789254101	225	CFD, Simulation, OpenFOAM, Simulation Engineer, StarCCM, ANSYS, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Principal CFD Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4763024101	210	CFD, Simulation, Fluid, OpenFOAM, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior CFD Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4750020101	195	CFD, Simulation, Fluid, OpenFOAM, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior CFD Engineer - Multiphase at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4845687101	195	CFD, Simulation, Fluid, OpenFOAM, Design	UK	True	Matched
-	2026-06-04		Agentur fur arbeit	Germany	Job	Junior Projektingenieur Flugkörpersignatorik (m/w/d) bei IABG Industrieanlagen Betriebs-GmbH	https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002937911-S	180	CFD, Entwicklung, Simulation, Berechnung, ANSYS		False	Skipped start site
+	2026-06-04		Agentur fur arbeit	Germany	Job	Ingenieur Schiffsentwurf (m/w/d) bei Brunel GmbH	https://www.arbeitsagentur.de/jobsuche/jobdetail/12362-TR-286019_612846LS-S	190	CFD, Entwicklung, Simulation, Berechnung, OpenFOAM		False	Skipped start site
 	2026-06-04		Agentur fur arbeit	Germany	Job	Berechnungsingenieur (m/w/d) FEM, CFD und Strukturmechanik bei iSK GmbH Personaldienstleistungen	https://www.arbeitsagentur.de/jobsuche/jobdetail/12262-13765889-S	180	CFD, Entwicklung, Simulation, Berechnung, ANSYS		False	Skipped start site
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior CFD Engineer - Turbomachinery at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4644845101	145	CFD, Simulation, Fluid, ANSYS, Design	UK	True	Matched
+	2026-06-04		Agentur fur arbeit	Germany	Job	CFD Software Engineer bei Siemens AG	https://www.arbeitsagentur.de/jobsuche/jobdetail/12465-1583076-1-S	165	CFD, Simulation, Fluid, Aerodynamics, Design		False	Skipped start site
 	2026-06-04		Agentur fur arbeit	Germany	Job	Senior Prozessentwicklungsingenieur - Strömungsmechanik (m/w/d) in Forschung & Entwicklung bei Tesla Automation GmbH	https://www.arbeitsagentur.de/jobsuche/jobdetail/15158-2026272669-S	120	CFD, Entwicklung, Simulation, ANSYS, Design		False	Skipped start site
 	2026-06-04		Agentur fur arbeit	Germany	Job	Bachelorand Machine Learning CFD (m/w/d) bei Enrichment Technology Company Ltd Niederlassung Deutschland	https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002774190-S	110	CFD, Entwicklung, Simulation, Design		False	Skipped start site
-	2026-06-04		Agentur fur arbeit	Germany	Job	Entwicklungsingenieur / Konstrukteur (m/w/d) mit Erfahrung im Umfeld der Aerodynamik bei Jobactive GmbH	https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002888236-S	105	CFD, Entwicklung, Simulation		False	Skipped start site
+	2026-06-04		liebherr	Germany	Job	Professionals - eDevelopment and software	https://www.liebherr.com/en-int/careers/professionals/edevelopment-and-software-5370620	105	Entwicklung, Simulation, Berechnung, Design		False	Skipped start site
 	2026-06-04		Agentur fur arbeit	Germany	Job	Operations & Controlling Support (m/w/d) bei Upstream CFD GmbH	https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002932333-S	105	CFD, Entwicklung, Simulation		False	Skipped start site
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior Machine Learning Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101	100	CFD, Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Machine Learning Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4749996101	100	CFD, Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Principal Machine Learning Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4749999101	100	CFD, Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Principal Machine Learning Infrastructure Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101	100	CFD, Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior FEA Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4750023101	90	Simulation, Fluid, ANSYS, Design	UK	True	Matched
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (f/m/d) Simulation Engineer Mission Analysis at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4826227101	85	Simulation, Aerodynamics, Simulation Engineer, Design		False	Skipped noise
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Simulation Engineer - FEA at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4845916101	85	Simulation, Simulation Engineer, ANSYS, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior Simulation Engineer - Electromagnetics Specialist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4871700101	85	Simulation, Simulation Engineer, ANSYS, Design	UK	True	Matched
-2026-06-04	2026-06-04		Mbda	Germany	Job	Datenschutz – Karriereportal MBDA Deutschland	https://www.mbda-careers.de/datenschutz/	85	Entwicklung, FSI, Design	UK	True	Matched
 	2026-06-04		Siemens	Germany	Job	Senior Embedded Developer (w/m/d) Controls & Firmware - Job Detail | Careers Marketplace - Siemens	https://jobs.siemens.com/en_US/externaljobs/JobDetail/505213	80	Entwicklung, Simulation, Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	R&D Electronics Test Engineer (f/m/d) Safety and EMC - Job Detail | Careers Marketplace - Siemens	https://jobs.siemens.com/en_US/externaljobs/JobDetail/506268	80	Entwicklung, Simulation, Design		False	Skipped noise
 	2026-06-04		volkswagen	Germany	Job	Hardwareentwickler im Bereich HV Batterie- oder Lenksysteme (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Braunschweig-Hardwareentwickler-im-Bereich-HV-Batterie-oder-Lenksysteme-%28mwd%29-38112/1287998801/	80	Entwicklung, Simulation, Design		False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Research and development jobs	https://www.liebherr.com/en-int/careers/professionals/research-and-development-5370622	80	Entwicklung, Simulation, Design		False	Skipped start site
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior Computer Vision Data Scientist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4852973101	80	Simulation, Fluid, Design	UK	True	Matched
-2026-06-04	2026-06-04		Mbda	Germany	Job	Standorte – Karriereportal MBDA Deutschland	https://www.mbda-careers.de/arbeitgeber/standorte/	80	Entwicklung, Simulation	UK	True	Matched
-2026-06-04	2026-06-04		Mbda	Germany	Job	Schrobenhausen – Karriereportal MBDA Deutschland	https://www.mbda-careers.de/arbeitgeber/standorte/schrobenhausen/	80	Entwicklung, Simulation	UK	True	Matched
-2026-06-04	2026-06-04		Mbda	Germany	Job	MBDA Deutschland – Karriereportal MBDA Deutschland	https://www.mbda-careers.de/arbeitgeber/unternehmen/mbda-deutschland/	80	Entwicklung, Simulation	UK	True	Matched
 	2026-06-04		Grob Aircraft	Germany	Job	Startseite - Grob Aircraft SE	https://jobs.grob-aircraft.com/	75	Entwicklung, Simulation		False	Skipped noise
 	2026-06-04		Agentur fur arbeit	Germany	Job	Abschlussarbeit: CFD-Modellierung und Simulation einer Hochdruckeinspritzung alternative Kraftstoffe bei Everllence SE	https://www.arbeitsagentur.de/jobsuche/jobdetail/16567-44147667-430-S	75	CFD, Simulation		False	Skipped noise
 	2026-06-04		Fraunhofer	Germany	Job	Studien-/Abschlussarbeit - Potentialanalyse industrieller Gleichstromnetze Stellendetails | Fraunhofer-Gesellschaft	https://jobs.fraunhofer.de/job/Stuttgart-Studien-Abschlussarbeit-Potentialanalyse-industrieller-Gleichstromnetze-70569/1390695733/	75	Entwicklung, Simulation		False	Skipped noise
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Machine Learning Software Engineer, Research at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4652630101	75	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Research Scientist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4652632101	75	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Research Scientist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4652633101	75	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Principal Research Scientist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4851193101	75	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Staff Machine Learning Software Engineer, Research at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4851342101	75	Simulation, Simulation Engineer, Design	UK	True	Matched
 	2026-06-04		Helsing	Germany	Job	Jobs – Helsing	https://helsing.ai/jobs	55	Simulation, Simulation Engineer, Research Engineer, Design		False	Skipped start site
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior Product Designer, Client-Facing at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4699630101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Senior Software Engineer - AI Workbench at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4789290101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Software Engineer - Go & Python (Core Services) at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4820418101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Core Services - Software Engineer (Frontend) at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4824923101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Machine Learning Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Data Scientist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4880922101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Data Scientist at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4880929101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		PhysicsX	England	Job	Job Application for Machine Learning Engineer at PhysicsX	https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101	50	Simulation, Simulation Engineer, Design	UK	True	Matched
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Operativer Einkäufer / Materialmanager (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/operativer_einkaeufer___materialmanager__m_w_d_/769019	45	Entwicklung	Germany, UK	True	Matched
+2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Senior Expert Network & Security Architecture (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/senior_expert_network___security_architecture__m_w_d_/778061	50	Entwicklung, Design	Germany, UK	True	Matched
 	2026-06-04		EDAG	Germany	Job	Formula Student - EDAG Group	https://www.edag.com/en/career/we-as-an-employer/formula-student	45	Simulation, Simulation Engineer, Design		False	Skipped noise
 	2026-06-04		PhysicsX	England	Job	PhysicsX | Careers	https://www.physicsx.ai/careers	45	Simulation, Simulation Engineer, Design		False	Skipped noise
-2026-06-04	2026-06-04		Siemens	Germany	Job	Early career programs in the energy sector	https://www.siemens-energy.com/global/en/home/careers/early-career-programs.html	41	Design	Germany, Netherland, Austria, UK, France, Italy, Australia	True	Matched
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Angebotsleiter / Bid Manager (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/angebotsleiter___bid_manager__m_w_d_/766025	40	Entwicklung	Germany	True	Matched
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Bid & Proposal Manager - Service (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/bid___proposal_manager_service__m_w_d_/776369	40	Entwicklung	Germany	True	Matched
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Systemingenieur Systemanalyse und Systementwurf (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/systemingenieur_systemanalyse_und_systementwurf__m_w_d_/769955	40	Entwicklung	Germany	True	Matched
+2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Mitarbeiter Qualitätssicherung mit Schwerpunkt Mechanik (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/mitarbeiter_qualitaetssicherung_mit_schwerpunkt_mechanik__m_w_d_/782153	40	Entwicklung	Germany	True	Matched
+	2026-06-04		TESA	Germany	Job	Current Vacancies - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies	40	Simulation, Simulation Engineer		False	Skipped start site
 	2026-06-04		Fraunhofer	Germany	Job	Studentische Hilfskraft im Bereich Kalibrierung von 3D-Scantechnologien Stellendetails | Fraunhofer-Gesellschaft	https://jobs.fraunhofer.de/job/Darmstadt-Studentische-Hilfskraft-im-Bereich-Kalibrierung-von-3D-Scantechnologien-64283/1381182833/	40	Entwicklung, ANSYS		False	Skipped noise
 	2026-06-04		Stirling Dyn	England	Job	Careers in Aerospace, Aviation & Marine Engineering	https://www.stirling-dynamics.com/careers	40	Simulation, Simulation Engineer		False	Skipped noise
 2026-06-04	2026-06-04		Aerzen	Germany	Job	Job offers - Aerzen	https://www.aerzen.com/career/job-offers	36		Germany, Netherland, Austria, UK, France, Italy, Australia	False	Below threshold
@@ -176,6 +145,8 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Siemens	Germany	Job	Expert (f/m/d) Artificial Intelligence - Job Detail | Careers Marketplace - Siemens	https://jobs.siemens.com/en_US/externaljobs/JobDetail/506892	30	Entwicklung		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Job Search | Careers Marketplace - Siemens	https://jobs.siemens.com/nl_NL/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42389=%5B39106405%2C144468627%2C102122%2C102134%2C102127%5D&42389_format=17549&42390=%5B102155%2C102156%2C102157%2C102158%5D&42390_format=17550&listFilterMode=1&folderRecordsPerPage=9&acz=1&gad_source=1&gad_campaignid=22145011592&gbraid=0AAAAADEuPPMyJNgoWK6259Pvtj28zRinJ&gclid=Cj0KCQjw_vnQBhCxARIsADcZyxJmEyEMgRhsNpWNBs2CTtWxpEEVypzsHBAepKJh_FJ6ZQbC6twdIlUaAodaEALw_wcB	30	FSI, Design		False	Skipped noise
 	2026-06-04		Grob Aircraft	Germany	Job	Praktikum / Werkstudent (m/w/d) - Grob Aircraft SE	https://jobs.grob-aircraft.com/jobs/7768515-praktikum-werkstudent-m-w-d	30	Entwicklung		False	Skipped noise
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Karrieren bei Dana Incorporated	https://jobs.dana.com?locale=de_CH	30	Entwicklung		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Karrieren bei Dana Incorporated	https://jobs.dana.com?locale=de_DE	30	Entwicklung		False	Below threshold
 	2026-06-04		volkswagen	Germany	Job	(Senior) Agile Master (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Braunschweig-%28Senior%29-Agile-Master-%28mwd%29-38112/1271811901/	30	Entwicklung		False	Skipped start site
 	2026-06-04		volkswagen	Germany	Job	Leitung Automation Technologies (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Braunschweig-Leitung-Automation-Technologies-%28mwd%29-38112/1392808733/	30	Entwicklung		False	Skipped start site
 	2026-06-04		volkswagen	Germany	Job	SAP Berater mit Schwerpunkt Finanz FI/CO (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Braunschweig-SAP-Berater-mit-Schwerpunkt-Finanz-FICO-%28mwd%29-38112/1213487901/	30	Entwicklung		False	Skipped start site
@@ -184,9 +155,8 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		volkswagen	Germany	Job	Logistikmeister (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Kassel-Logistikmeister-%28mwd%29-34123/1287187701/	30	Entwicklung		False	Skipped start site
 	2026-06-04		volkswagen	Germany	Job	Logistikmeister (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Wolfsburg-Logistikmeister-%28mwd%29-38442/1236505301/	30	Entwicklung		False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Job vacancies at Liebherr	https://www.liebherr.com/en-int/careers/job-vacancies-5370609	30	Entwicklung		False	Skipped start site
-	2026-06-04		liebherr	Germany	Job	Professionals - eDevelopment and software	https://www.liebherr.com/en-int/careers/professionals/edevelopment-and-software-5370620	30	Simulation, Design		False	Skipped start site
-	2026-06-04		Siemens	Germany	Job	Commercial Sales Manager - Mexico - 295993 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Commercial-Sales-Manager/295993	30	Technical Sales		False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Expert for Operational IT & Digital (w/m/d) - Germany - 297248 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Expert-for-Operational-IT-Digital-w-m-d/297248	30	Entwicklung		False	Skipped noise
+	2026-06-04		liebherr	Germany	Job	Direct entry at Liebherr	https://www.liebherr.com/en-int/careers/young-professionals/direct-entry-5370636	30	Entwicklung		False	Skipped start site
+	2026-06-04		Siemens	Germany	Job	Expert for Operational IT & Digital (w/m/d) - Germany - 297248 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Expert-for-Operational-IT-Digital-w-m-d/297248	30	Entwicklung		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Mechatroniker (w/m/d) für Energie- und Gebäudetechnik - Germany - 296934 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Mechatroniker-w-m-d-f-r-Energie-und-Geb-udetechnik/296934	30	Entwicklung		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Projektleiter (w/m/d) Prüftechnik - Germany - 297348 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Projektleiter-w-m-d-Pr-ftechnik/297348	30	Entwicklung		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Werkstudent (w/m/d) HR Business Partnering Region Ost - Germany - 297361 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Werkstudent-w-m-d-HR-Business-Partnering-Region-Ost/297361	30	Entwicklung		False	Skipped noise
@@ -195,7 +165,7 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Mathematical Modeling at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4824842101	30	Simulation, Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Guidance, Navigation and Control (GNC) and Flight Dynamics at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4824893101	30	Simulation, Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern(f/m/d) Avionics Hardware Development (Mechanical/Electronics) at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4826269101	30	Simulation, Design		False	Skipped noise
-	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Software Engineer Mission Analysis at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4828112101	30	Simulation, Design		False	Skipped noise
+	2026-06-04		Rocket Factory	Germany	Job	page_title	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4828112101	30	Simulation, Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern(m/f/d) Propulsion Test Data Engineer at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4830984101	30	Fluid, Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Launch Systems Engineering at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4841879101	30	Fluid, Design		False	Skipped noise
 	2026-06-04		MTU	Germany	Job	Online job market - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/	30	Entwicklung		False	Skipped start site
@@ -205,14 +175,13 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		EDAG	Germany	Job	Production planning jobs in an efficient team - EDAG Group	https://www.edag.com/en/career/professional-fields/production-and-logistics-planning	30	Simulation, Design		False	Below threshold
 2026-06-04	2026-06-04		EDAG	Germany	Job	Technical Product Designer Jobs: Make Ideas Come True - EDAG Group	https://www.edag.com/en/career/professional-fields/technical-product-design	30	Simulation, Design		False	Below threshold
 2026-06-04	2026-06-04		EDAG	Germany	Job	eSports - EDAG Group	https://www.edag.com/en/career/we-as-an-employer/esports	30	Simulation, Design		False	Below threshold
-	2026-06-04		TESA	Germany	Job	Werkstudent Business Development Engineering (m/f/x) - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/werkstudent-business-development-engineering-m-f-x-12589871.html	30	Entwicklung		False	Skipped noise
 	2026-06-04		Fraunhofer	Germany	Job	Studentische Hilfskraft (m/w/d): Life Cycle Engineering & Recycling - Labor Stellendetails | Fraunhofer-Gesellschaft	https://jobs.fraunhofer.de/job/M%C3%BCnster-Studentische-Hilfskraft-%28mwd%29-Life-Cycle-Engineering-&-Recycling-Labor-48149/1390700033/	30	Entwicklung		False	Skipped noise
 	2026-06-04		Fraunhofer	Germany	Job	Studentische Hilfskraft (m/w/d): Projektleitung Fabrikplanung Stellendetails | Fraunhofer-Gesellschaft	https://jobs.fraunhofer.de/job/M%C3%BCnster-Studentische-Hilfskraft-%28mwd%29-Projektleitung-Fabrikplanung-48149/1390856133/	30	Entwicklung		False	Skipped noise
 	2026-06-04		Fraunhofer	Germany	Job	Studentische Hilfskraft (m/w/d): Umsetzung und Automatisierung von Mini-Environments in der Batterie Stellendetails | Fraunhofer-Gesellschaft	https://jobs.fraunhofer.de/job/M%C3%BCnster-Studentische-Hilfskraft-%28mwd%29-Umsetzung-und-Automatisierung-von-Mini-Environments-in-der-Batterie-48149/1390666133/	30	Entwicklung		False	Skipped noise
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Field Application Engineer Job Details | Dana Incorporated	https://jobs.dana.com/job/Arzignano-Field-Application-Engineer-36071/1362721400/	25	Simulation		False	Below threshold
 	2026-06-04		Siemens	Germany	Job	Zoek banen bij Siemens Energy en Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/nl_NL/jobs/Jobs	25	FSI		False	Skipped noise
 	2026-06-04		MTU	Germany	Job	Development and technology - MTU Aero Engines	https://www.mtu.de/careers/job-areas/development-and-technology/	25	Aerodynamics, Design		False	Skipped start site
 	2026-06-04		MTU	Germany	Job	IT - MTU Aero Engines	https://www.mtu.de/careers/job-areas/it/	25	Simulation		False	Skipped start site
-	2026-06-04		Helsing	Germany	Job	Técnico Mecatrónico - Robotics – Helsing	https://helsing.ai/jobs/4809133101	25	Fluid		False	Skipped start site
 2026-06-04	2026-06-04		Mbda	Germany	Job	Produktion und Logistik – Karriereportal MBDA Deutschland	https://www.mbda-careers.de/arbeitgeber/arbeitsbereiche/produktion-und-logistik/	25	Entwicklung, Design	UK	False	Below threshold
 2026-06-04	2026-06-04		IAV	Germany	Job	Joboffers - IAV	https://www.iav.com/career/joboffers/	21	Design	Germany, France	False	Below threshold
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Additive Manufacturing Technician (m/f/d) 3D Metal-Printing at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4823846101	20	Design	Germany, UK	False	Below threshold
@@ -232,6 +201,7 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Additive Manufacturing Engineer (m/f/d) 3D Metal-Printing at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4862185101	20	Design	Germany, UK	False	Below threshold
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Material Quality Engineer (m/f/d) AM PFB-LBM at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4862209101	20	Design	Germany, UK	False	Below threshold
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Avionics Engineer - Safety (m/f/d) at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4872635101	20	Design	Germany, UK	False	Below threshold
+2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Systems Administrator - Windows (m/f/d) at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4876066101	20	Design	Germany, UK	False	Below threshold
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Propulsion Production Engineer (m/f/d) at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4877177101	20	Design	Germany, UK	False	Below threshold
 	2026-06-04		MTU	Germany	Job	Job Areas - MTU Aero Engines	https://www.mtu.de/careers/job-areas/	20	Aerodynamics		False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Performance Engineer II - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/performance-engineer-ii/	20	Aerodynamics		False	Skipped start site
@@ -254,8 +224,6 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		AIP Services	Germany	Job	Jobs: Konfiguration Manager (m/w/d) in Immenstaad am Bodensee | Aviation Industry Personnel SERVICES GmbH	https://k21840.coveto.de/job-konfiguration-manager-m-w-d-immenstaad-am-bodensee-14289.html	10	Design	UK	False	Below threshold
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Launch Site Health & Safety Lead at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4823448101	10	Design	UK	False	Below threshold
 2026-06-04	2026-06-04		DLR	Germany	Job	Your career at DLR - Open positions	https://jobs.dlr.de?locale=en_GB	10		Germany	False	Below threshold
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Nutzfahrzeugmechaniker im Außendienst (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/nutzfahrzeugmechaniker_im_aussendienst__m_w_d_/775070	10		Germany	False	Below threshold
-2026-06-04	2026-06-04		Rheinmetal	Germany	Job	Projektleiter Neubau- & Sanierungsprojekte (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/projektleiter_neubau___sanierungsprojekte__m_w_d_/767975	10		Germany	False	Below threshold
 2026-06-04	2026-06-04		ÒKAPI	Germany	Job	Space Situational Awareness Engineer | Jobs at OKAPI:Orbits GmbH	https://okapiorbits.jobs.personio.de/job/1929498	10		Germany	False	Below threshold
 2026-06-04	2026-06-04		ÒKAPI	Germany	Job	(Junior) Aerospace Engineer - Space Safety & SSA (m/w/d) | Jobs at OKAPI:Orbits GmbH	https://okapiorbits.jobs.personio.de/job/2533959	10		Germany	False	Below threshold
 2026-06-04	2026-06-04		ÒKAPI	Germany	Job	Sales Manager for Space Applications (m/w/d) | Jobs at OKAPI:Orbits GmbH	https://okapiorbits.jobs.personio.de/job/2570783	10		Germany	False	Below threshold
@@ -268,7 +236,7 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Helsing	Germany	Job	AI Research Engineer - Reinforcement Learning – Helsing	https://helsing.ai/jobs/4676357101	10	Research Engineer		False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	AI Research Engineer - Foundation Models – Helsing	https://helsing.ai/jobs/4766708101	10	Research Engineer		False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	AI Research Engineer - ML Engineering – Helsing	https://helsing.ai/jobs/4778869101	10	Research Engineer		False	Skipped start site
-2026-06-04	2026-06-04		James Fischer	England	Job	57 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=list	10	Design	UK	False	Below threshold
+2026-06-04	2026-06-04		James Fischer	England	Job	59 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=list	10	Design	UK	False	Below threshold
 	2026-06-04		Siemens	Germany	Job	Job Search | Careers Marketplace - Siemens	https://jobs.siemens.com/cs_CZ/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42389=%5B39106405%2C144468627%2C102122%2C102134%2C102127%5D&42389_format=17549&42390=%5B102155%2C102156%2C102157%2C102158%5D&42390_format=17550&listFilterMode=1&folderRecordsPerPage=9&acz=1&gad_source=1&gad_campaignid=22145011592&gbraid=0AAAAADEuPPMyJNgoWK6259Pvtj28zRinJ&gclid=Cj0KCQjw_vnQBhCxARIsADcZyxJmEyEMgRhsNpWNBs2CTtWxpEEVypzsHBAepKJh_FJ6ZQbC6twdIlUaAodaEALw_wcB	5	Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Job Search | Careers Marketplace - Siemens	https://jobs.siemens.com/de_DE/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42389=%5B39106405%2C144468627%2C102122%2C102134%2C102127%5D&42389_format=17549&42390=%5B102155%2C102156%2C102157%2C102158%5D&42390_format=17550&listFilterMode=1&folderRecordsPerPage=9&acz=1&gad_source=1&gad_campaignid=22145011592&gbraid=0AAAAADEuPPMyJNgoWK6259Pvtj28zRinJ&gclid=Cj0KCQjw_vnQBhCxARIsADcZyxJmEyEMgRhsNpWNBs2CTtWxpEEVypzsHBAepKJh_FJ6ZQbC6twdIlUaAodaEALw_wcB	5	Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Job Search | Careers Marketplace - Siemens	https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42386=%5B812132%5D&42386_format=17546&42389=%5B39106405%2C144468627%2C102122%2C102134%2C102127%5D&42389_format=17549&42390=%5B102155%2C102156%2C102157%2C102158%5D&42390_format=17550&listFilterMode=1&folderRecordsPerPage=6&folderOffset=30	5	Design		False	Skipped noise
@@ -285,6 +253,15 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		Grob Aircraft	Germany	Job	Junior Flight Test Engineer (m/f/x) - Grob Aircraft SE	https://jobs.grob-aircraft.com/jobs/7704013-junior-flight-test-engineer-m-f-x	5	Design		False	Below threshold
 2026-06-04	2026-06-04		Grob Aircraft	Germany	Job	Strategic Buyer - Aftermarket & MRO (m/f/d) - Grob Aircraft SE	https://jobs.grob-aircraft.com/jobs/7763628-strategic-buyer-aftermarket-mro-m-f-d	5	Design		False	Below threshold
 2026-06-04	2026-06-04		Grob Aircraft	Germany	Job	Mitarbeiter Zuschnitt Composite / GFK & CFK (m/w/d) - Grob Aircraft SE	https://jobs.grob-aircraft.com/jobs/7793035-mitarbeiter-zuschnitt-composite-gfk-cfk-m-w-d	5		UK	False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/25/?q=&sortColumn=referencedate&sortDirection=desc	5	Design		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Analyst - Payroll, Time & Attendance Job Details | Dana Incorporated	https://jobs.dana.com/job/Analyst-Payroll%2C-Time-&-Attendance/1388504800/	5	Design		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Analyst - Payroll, Time & Attendance Job Details | Dana Incorporated	https://jobs.dana.com/job/Analyst-Payroll%2C-Time-&-Attendance/1388505200/	5	Design		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Analyst - Payroll, Time & Attendance Job Details | Dana Incorporated	https://jobs.dana.com/job/Analyst-Payroll%2C-Time-&-Attendance/1388505500/	5	Design		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Termelési Terület Vezető Job Details | Dana Incorporated	https://jobs.dana.com/job/Gyor-Termel%C3%A9si-Ter%C3%BClet-Vezet%C5%91-Hung-9072/1396683400/	5		UK	False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Lead Network Engineer Job Details | Dana Incorporated	https://jobs.dana.com/job/Novi-Lead-Network-Engineer-MI-48377/1388728400/	5	Design		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Project Coordinator Job Details | Dana Incorporated	https://jobs.dana.com/job/Queretaro-Project-Coordinator-Quer-76120/1396665500/	5	Design		False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Karrier a Dana Incorporated vállalatnál	https://jobs.dana.com?locale=hu_HU	5		UK	False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Karjera „Dana Incorporated“ įmonėje	https://jobs.dana.com?locale=lt_LT	5		UK	False	Below threshold
 	2026-06-04		volkswagen	Germany	Job	Volkswagen Group Services Gmbh | Job Portal	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/?locale=en_US	5	Design		False	Skipped start site
 2026-06-04	2026-06-04		volkswagen	Germany	Job	Volkswagen Group Services Gmbh | Állásportál	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/?locale=hu_HU	5		UK	False	Below threshold
 2026-06-04	2026-06-04		volkswagen	Germany	Job	Volkswagen Group Services Gmbh | Portal pracy	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/?locale=pl_PL	5		UK	False	Below threshold
@@ -300,7 +277,6 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		liebherr	Germany	Job	Insights at Liebherr: employees report.	https://www.liebherr.com/en-int/careers/we-as-an-employer/employee-experiences-5370662#Berufseinsteigende/Studierende	5	Design		False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Insights at Liebherr: employees report.	https://www.liebherr.com/en-int/careers/we-as-an-employer/employee-experiences-5370662#Berufserfahrene	5	Design		False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Insights at Liebherr: employees report.	https://www.liebherr.com/en-int/careers/we-as-an-employer/employee-experiences-5370662#Schüler:innen	5	Design		False	Skipped start site
-	2026-06-04		Vertical Aerospace	Germany	Job	Careers · Vertical Aerospace	https://vertical-aerospace.com/careers/	5	Design		False	Skipped noise
 	2026-06-04		SII	Germany	Job	Career Portal - SII Deutschland	https://sii-group.de/en/career-portal/	5	Design		False	Skipped start site
 	2026-06-04		SII	Germany	Job	Career Portal - SII Deutschland	https://sii-group.de/en/career-portal?search_category=Andere	5	Design		False	Skipped start site
 	2026-06-04		SII	Germany	Job	Career Portal - SII Deutschland	https://sii-group.de/en/career-portal?search_category=automation-manufacturing-engineering	5	Design		False	Skipped start site
@@ -317,20 +293,21 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		3DS	Germany	Job	Imagine New Horizons | Careers - Dassault Systèmes	https://www.3ds.com/careers	5	Design		False	Skipped noise
 	2026-06-04		Everllence	Germany	Job	International job vacancies at Everllence (former MAN ES)	https://www.everllence.com/career/international-jobs	5	Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs	5	Design		False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Application Software Development Engineer - Gas Turbine Controls / Ingénieur en développement de logiciels d’application pour le contrôle des turbines à gaz - Canada - 297277 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Application-Software-Development-Engineer-Gas-Turbine-Controls-Ing-nieur-en-d-veloppement-de-logiciels-d-application-pour-le-contr-le-des-turbines-gaz/297277	5	Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	CNC Programozó - Hungary - 297330 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/CNC-Programoz/297330	5	Design		False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Cybersecurity Governance Officer (ICS) - Serbia - 296075 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Cybersecurity-Governance-Officer-ICS/296075	5	Design		False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Coating Engineer - United States of America - 297024 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Coating-Engineer/297024	5	Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	HR AI Solution Architect - Mexico - 297417 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/HR-AI-Solution-Architect/297417	5	Design		False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Infrastructure developer - Denmark - 296099 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Infrastructure-developer/296099	5	Design		False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Maskiningeniør - Norway - 296179 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Maskiningeni-r/296179	5	Design		False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	SCADA Network Engineer - United States of America - 296536 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/SCADA-Network-Engineer/296536	5	Design		False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Search jobs at Siemens Energy and Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Jobs/?folderRecordsPerPage=20&folderOffset=20	5	Design		False	Skipped noise
 2026-06-04	2026-06-04		BAE sys	Germany	Job	BAE Systems jobs - search and apply	https://jobsearch.baesystems.com	5		UK	False	Below threshold
 2026-06-04	2026-06-04		BAE sys	Germany	Job	BAE Systems jobs - search and apply	https://jobsearch.baesystems.com#map-search	5		UK	False	Below threshold
 	2026-06-04		BAE sys	Germany	Job	Browse Jobs | BAE Systems	https://jobsearch.baesystems.com/browse-jobs	5	Design		False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Early Careers and Skills Development Coach Job | Samlesbury | BAE Systems	https://jobsearch.baesystems.com/job/early-careers-and-skills-development-coach-00136756	5	Design		False	Skipped noise
-	2026-06-04		BAE sys	Germany	Job	Full Stack Developer Job | London, GB | BAE Systems	https://jobsearch.baesystems.com/job/full-stack-developer-123078	5	Design		False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Senior Project Controller Job | SA-Osborne Naval Shipyard | BAE Systems	https://jobsearch.baesystems.com/job/senior-project-controller-226610812	5	Design		False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Systems Engineer Job | SA-Edinburgh Parks | BAE Systems	https://jobsearch.baesystems.com/job/systems-engineer-226610785	5	Design		False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Systems Engineer (Installations) Job | Christchurch | BAE Systems	https://jobsearch.baesystems.com/job/systems-engineer-installations-00134339	5	Design		False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	IT Service Operations Lead Job | Samlesbury | BAE Systems	https://jobsearch.baesystems.com/job/it-service-operations-lead-00136277	5	Design		False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Principal Engineer – Software Assurance Job | Various | BAE Systems	https://jobsearch.baesystems.com/job/principal-engineer-software-assurance-00135617	5	Design		False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Principal Product Safety Engineer Job | Portsmouth BroadOak | BAE Systems	https://jobsearch.baesystems.com/job/principal-product-safety-engineer-00134266	5	Design		False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Senior Software Engineer Job | London, GB | BAE Systems	https://jobsearch.baesystems.com/job/senior-software-engineer-123134	5	Design		False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Technical Authority – Shared Infrastructure Job | New Malden | BAE Systems	https://jobsearch.baesystems.com/job/technical-authority-shared-infrastructure-00135773	5	Design		False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Technical Manager – Integration Job | HQ Riyad | BAE Systems	https://jobsearch.baesystems.com/job/technical-manager-integration-00137121	5	Design		False	Skipped start site
 	2026-06-04		TGR	Germany	Job	TOYOTA RACING Jobs	https://careers.tgr-europe.com/search/	5	Design		False	Skipped start site
 2026-06-04	2026-06-04		AIP Services	Germany	Job	Jobs: Anlagenmechaniker (m/w/d) Lufhansa Technik in Hamburg | Aviation Industry Personnel SERVICES GmbH	https://k21840.coveto.de/job-anlagenmechaniker-m-w-d-lufhansa-technik-hamburg-14207.html	5		UK	False	Below threshold
 2026-06-04	2026-06-04		AIP Services	Germany	Job	Jobs: Arbeitsvorbereiter Aviation (m/w/d) Direktvermittlung in Schkeuditz | Aviation Industry Personnel SERVICES GmbH	https://k21840.coveto.de/job-arbeitsvorbereiter-aviation-m-w-d-direktvermittlung-schkeuditz-14288.html	5		UK	False	Below threshold
@@ -375,7 +352,7 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		AIP Services	Germany	Job	Jobs: Lackierer (m/w/d) in Münster | Aviation Industry Personnel SERVICES GmbH	https://k21840.coveto.de/job-lackierer-m-w-d-muenster-14159.html	5		UK	False	Below threshold
 2026-06-04	2026-06-04		AIP Services	Germany	Job	Jobs: Lackierer/Sealer (m/w/d) in Weßling | Aviation Industry Personnel SERVICES GmbH	https://k21840.coveto.de/job-lackierer-sealer-m-w-d-wessling-14157.html	5		UK	False	Below threshold
 2026-06-04	2026-06-04		AIP Services	Germany	Job	Jobs: Lackierhelfer (m/w/d) in Weßling | Aviation Industry Personnel SERVICES GmbH	https://k21840.coveto.de/job-lackierhelfer-m-w-d-wessling-14181.html	5		UK	False	Below threshold
-	2026-06-04		Rocket Factory	Germany	Job	page_title	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4823887101	5	Design		False	Skipped noise
+	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) 3D Printing/Additive Manufacturing at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4823887101	5	Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Flight Safety Analyst at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4824750101	5	Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (f/m/d) Avionics Production at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4826694101	5	Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Electrical Engineering at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4827612101	5	Design		False	Skipped noise
@@ -383,11 +360,11 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Stage Assembly & Integration Technician (m/f/d) at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4829103101	5	Design	Germany, UK	False	Below threshold
 	2026-06-04		Rocket Factory	Germany	Job	Bewerbung als Ausbildung als Konstruktions-/Industriemechaniker (w/m/d) bei Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4829618101	5	Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Propulsion Engineering at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4837700101	5	Design		False	Skipped noise
-	2026-06-04		Rocket Factory	Germany	Job	page_title	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4876066101	5	Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) Project Manager - Institutional and Future Technologies at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4878506101	5	Design		False	Skipped noise
 	2026-06-04		Rocket Factory	Germany	Job	Job Application for Intern (m/f/d) LabVIEW Programming at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4878647101	5	Design		False	Skipped noise
 2026-06-04	2026-06-04		DLR	Germany	Job	Deine Karriere beim DLR - Offene Stellen	https://jobs.dlr.de?locale=de_DE	5		UK	False	Below threshold
 	2026-06-04		MTU	Germany	Job	Enablement | Site development and support - MTU Aero Engines	https://www.mtu.de/careers/job-areas/enablement-site-development-and-support/	5	Design		False	Skipped start site
+	2026-06-04		MTU	Germany	Job	Associate (entry-level) Engineer - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/associate-entry-level-engineer/	5	Design		False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Customer Account Manager - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/customer-account-manager/	5	Design		False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Customs Operations Manager - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/customs-operations-manager/	5	Design		False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Design Integration Engineer II - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/design-integration-engineer-ii/	5	Design		False	Skipped noise
@@ -447,12 +424,9 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		ENERCON	Germany	Job	Técnico de Manutenção de Aerogeradores (Elétrica) - Torres Vedras (m/d/f) Job Details | ENERCON	https://career.enercon.de/job/Viana-do-Castelo-T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o-de-Aerogeradores-%28El%C3%A9trica%29-Torres-Vedras-%28mdf%29-4925-432/1351120855/	5	Design		False	Below threshold
 2026-06-04	2026-06-04		ENERCON	Germany	Job	Técnico de Manutenção de Aerogeradores (Elétrica) - Viseu / São Pedro do Sul (m/d/f) Job Details | ENERCON	https://career.enercon.de/job/Viana-do-Castelo-T%C3%A9cnico-de-Manuten%C3%A7%C3%A3o-de-Aerogeradores-%28El%C3%A9trica%29-Viseu-S%C3%A3o-Pedro-do-Sul-%28mdf%29-4925-432/1347208655/	5	Design		False	Below threshold
 2026-06-04	2026-06-04		ENERCON	Germany	Job	Wind Turbine Technician, Electrical Job Details | ENERCON	https://career.enercon.de/job/Windsor-Wind-Turbine-Technician%2C-Electrical-Nova-N8W-5J1/1352783355/	5	Design		False	Below threshold
-	2026-06-04		TESA	Germany	Job	Working Student (m/f/d) Corporate Branding & Integrated Communications - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/working-student-m-f-d-corporate-branding-and-integrated-communications-12573109.html	5	Design		False	Skipped noise
-	2026-06-04		TESA	Germany	Job	Working student - New Business Development (m/f/x) - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/working-student-new-business-development-m-f-x-12531963.html	5	Design		False	Skipped noise
 	2026-06-04		Helsing	Germany	Job	Deployed Product Designer – Helsing	https://helsing.ai/jobs/4564710101	5	Design		False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Design Engineer - Electronics – Helsing	https://helsing.ai/jobs/4660594101	5	Design		False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Senior Design Engineer – Helsing	https://helsing.ai/jobs/4660614101	5	Design		False	Skipped start site
-	2026-06-04		Helsing	Germany	Job	Events Manager – Helsing	https://helsing.ai/jobs/4816634101	5	Design		False	Skipped noise
 	2026-06-04		Airbus	Germany	Job	Skilled Aircraft Fitter | Airbus - Guidant Global	https://airbus.guidantglobal.com/jobs/Skilled-Aircraft-Fitter-171370	5	Design		False	Skipped start site
 2026-06-04	2026-06-04		Fraunhofer	Germany	Job	"Master's thesis ""Novel Cell Concepts for AEM and Alkaline Water Electrolysis"" Job Details | Fraunhofer-Gesellschaft"	https://jobs.fraunhofer.de/job/Oberhausen-Master&apos;s-thesis-Novel-Cell-Concepts-for-AEM-and-Alkaline-Water-Electrolysis-46047/1390718533/	5	Design		False	Below threshold
 	2026-06-04		Helmholtz	Germany	Job	Job Vacancies - Helmholtz - Association of German Research Centres	https://www.helmholtz.de/en/career/job-vacancies/	5	Design		False	Skipped start site
@@ -497,6 +471,42 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		Grob Aircraft	Germany	Job	Grob Aircraft SE – Connect	https://jobs.grob-aircraft.com/connect/login	0			False	Below threshold
 	2026-06-04		Grob Aircraft	Germany	Job	Schnupperpraktikum (m/w/d) - Grob Aircraft SE	https://jobs.grob-aircraft.com/jobs/7613869-schnupperpraktikum-m-w-d	0			False	Skipped noise
 	2026-06-04		Grob Aircraft	Germany	Job	Sign in to your account	https://jobs.grob-aircraft.com/sso_login	0			False	Skipped noise
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/100/?q=&sortColumn=referencedate&sortDirection=desc	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/200/?q=&sortColumn=referencedate&sortDirection=desc	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/50/?q=&sortColumn=referencedate&sortDirection=desc	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/?q=#reset	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/?q=&sortColumn=referencedate&sortDirection=desc	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	View All Jobs at Dana	https://jobs.dana.com/go/View-All-Jobs/9152900/?q=&sortColumn=sort_title&sortDirection=desc#hdrTitleButton	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Test Engineer Verification&Validation Job Details | Dana Incorporated	https://jobs.dana.com/job/Arzignano-Test-Engineer-Verification&Validation-36071/1362681300/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Maintenance Electrician Job Details | Dana Incorporated	https://jobs.dana.com/job/Chatham-Maintenance-Electrician-ON-N7M-5K3/1294836900/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Forecasting Analyst Job Details | Dana Incorporated	https://jobs.dana.com/job/Crossville-Forecasting-Analyst-TN-38555-5494/1388738500/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Materials, Logistics, & Customer Service Team Lead Job Details | Dana Incorporated	https://jobs.dana.com/job/Danville-Materials%2C-Logistics%2C-&-Customer-Service-Team-Lead-KY-40422-9560/1380081800/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Electrician Job Details | Dana Incorporated	https://jobs.dana.com/job/Ft_Wayne-Electrician-IN-46808-1998/988334200/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	MMT Mechanical Maintenance Tech Job Details | Dana Incorporated	https://jobs.dana.com/job/Ft_Wayne-MMT-Mechanical-Maintenance-Tech-IN-46808-1998/988341400/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Sr. IT Manager, Industry 4.0 Global Deployment Job Details | Dana Incorporated	https://jobs.dana.com/job/Maumee-Sr_-IT-Manager%2C-Industry-4_0-Global-Deployment-OH-43537/1388707700/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	General Production Job Details | Dana Incorporated	https://jobs.dana.com/job/Mount-Forest-General-Production-ON-N0G-2L1/1396294700/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	General Production Job Details | Dana Incorporated	https://jobs.dana.com/job/Mount-Forest-General-Production-ON-N0G-2L1/1396390600/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	General Production Job Details | Dana Incorporated	https://jobs.dana.com/job/Mount-Forest-General-Production-ON-N0G-2L1/1396854800/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Tool & Gage Inspector Repairer Job Details | Dana Incorporated	https://jobs.dana.com/job/Pottstown-Tool-&-Gage-Inspector-Repairer-PA-19464-6042/1342613700/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Officer Job Details | Dana Incorporated	https://jobs.dana.com/job/Pune-Officer-MH-410501/1388013600/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Production Team Member Job Details | Dana Incorporated	https://jobs.dana.com/job/Robinson-Production-Team-Member-IL-62454-3202/1355052600/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	General Worker Job Details | Dana Incorporated	https://jobs.dana.com/job/Tlalnepantla-General-Worker-Mexi-54180/1396834100/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	LEAN 2 Job Details | Dana Incorporated	https://jobs.dana.com/job/Tlalnepantla-LEAN-2-Mexi-54180/1269016600/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	LEAN 2 Job Details | Dana Incorporated	https://jobs.dana.com/job/Tlalnepantla-LEAN-2-Mexi-54180/1300662800/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Manufacturing Technician (Operator) Job Details | Dana Incorporated	https://jobs.dana.com/job/Warren-Manufacturing-Technician-%28Operator%29-MI-48092/987712700/	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Die Technician Job Details | Dana Incorporated	https://jobs.dana.com/job/Wuxi-Die-Technician-JS-214112/1395787300/	0			False	Below threshold
+	2026-06-04		Dana lim	Germany	Job	Careers at Dana Incorporated	https://jobs.dana.com?locale=en_US	0			False	Skipped noise
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Trabajo en Dana Incorporated	https://jobs.dana.com?locale=es_ES	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Carreras en Dana Incorporated	https://jobs.dana.com?locale=es_MX	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Carrières chez Dana Incorporated	https://jobs.dana.com?locale=fr_CA	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Posizioni aperte in Dana Incorporated	https://jobs.dana.com?locale=it_IT	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Dana Incorporatedのキャリア	https://jobs.dana.com?locale=ja_JP	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Carrières bij Dana Incorporated	https://jobs.dana.com?locale=nl_NL	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Carreiras na Dana Incorporated	https://jobs.dana.com?locale=pt_BR	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Karriärer på Dana Incorporated	https://jobs.dana.com?locale=sv_SE	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	ตำแหน่งต่าง ๆ ที่ Dana Incorporated	https://jobs.dana.com?locale=th_TH	0			False	Below threshold
+2026-06-04	2026-06-04		Dana lim	Germany	Job	Dana Incorporated 招贤纳士	https://jobs.dana.com?locale=zh_CN	0			False	Below threshold
 2026-06-04	2026-06-04		volkswagen	Germany	Job	Volkswagen Group Services Gmbh | Job Portal	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/?locale=es_ES	0			False	Below threshold
 	2026-06-04		volkswagen	Germany	Job	Fertigungsmitarbeiter (m/w/d) in der Achsmontage Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Braunschweig-Fertigungsmitarbeiter-%28mwd%29-in-der-Achsmontage-38112/1275457601/	0			False	Skipped start site
 	2026-06-04		volkswagen	Germany	Job	Physiotherapeut (m/w/d) Stellendetails | Volkswagen AG	https://jobs.volkswagen-group.com/Volkswagen-Group-Services/job/Hannover-Physiotherapeut-%28mwd%29-30419/1391715733/	0			False	Skipped start site
@@ -516,11 +526,11 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		liebherr	Germany	Job	Applying to Liebherr as an experienced professional	https://www.liebherr.com/en-int/careers/professionals/your-way-to-apply-5370630	0			False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	One Passion. Many Opportunities. Working at Liebherr.	https://www.liebherr.com/en-int/careers/we-as-an-employer-5370658	0			False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Career starters: Your entry-level opportunities	https://www.liebherr.com/en-int/careers/young-professionals-5370632	0			False	Skipped start site
-	2026-06-04		liebherr	Germany	Job	Direct entry at Liebherr	https://www.liebherr.com/en-int/careers/young-professionals/direct-entry-5370636	0			False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Global Trainee program at Liebherr	https://www.liebherr.com/en-int/careers/young-professionals/global-trainee-programe-5370634	0			False	Skipped start site
 	2026-06-04		liebherr	Germany	Job	Applying to Liebherr as a career starter	https://www.liebherr.com/en-int/careers/young-professionals/your-way-to-apply-5370638	0			False	Skipped start site
 2026-06-04	2026-06-04		Polaris	Germany	Job	Career	https://www.polaris-raumflugzeuge.de/career	0			False	Below threshold
 2026-06-04	2026-06-04		Vertical Aerospace	Germany	Job	Vertical Aerospace Jobs	https://jobs.ashbyhq.com/vertical-aerospace	0			False	Below threshold
+	2026-06-04		Vertical Aerospace	Germany	Job	Careers · Vertical Aerospace	https://vertical-aerospace.com/careers/	0			False	Skipped noise
 2026-06-04	2026-06-04		EP Mannheim	Germany	Job		https://twitter.com/intent/tweet?url=https://www.ep-group.de/job/LS1382405	0			False	Below threshold
 2026-06-04	2026-06-04		EP Mannheim	Germany	Job		https://twitter.com/intent/tweet?url=https://www.ep-group.de/job/ZE1382397	0			False	Below threshold
 2026-06-04	2026-06-04		EP Mannheim	Germany	Job		https://twitter.com/intent/tweet?url=https://www.ep-group.de/job/ZE1382398	0			False	Below threshold
@@ -563,37 +573,38 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		Audi	Germany	Job	Access Denied	https://www.audi.com/careers 	0			False	Below threshold
 	2026-06-04		Siemens	Germany	Job	Hledat práci ve společnostech Siemens Energy a Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/cs_CZ/jobs/Jobs	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Jobs finden bei Siemens Energy und Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/de_DE/jobs/Jobs	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Analista de Qualidade Sr - Jundiaí - Brazil - 297235 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Analista-de-Qualidade-Sr-Jundia/297235	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	BU LoA Focal Point and Internal Project Manager - Denmark - 297090 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/BU-LoA-Focal-Point-and-Internal-Project-Manager/297090	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Bid Management Support - Romania - 297411 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Bid-Management-Support/297411	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	OAM Reliability Engineer - Hungary - 296291 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/OAM-Reliability-Engineer/296291	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Project Construction & Installation Manager - United States of America - 292521 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Project-Construction-Installation-Manager/292521	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Complex Projects Order Manager - United States of America - 295409 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Complex-Projects-Order-Manager/295409	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Ingeniero de Manufactura - Mexico - 297114 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Ingeniero-de-Manufactura/297114	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Manufacturing Process & Equipment Specialist-Fábrica de transformadores - Colombia - 297115 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Manufacturing-Process-Equipment-Specialist-F-brica-de-transformadores/297115	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Site Manager (f/m/d) - United Kingdom of Great Britain and Northern Ireland - 297026 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Site-Manager-f-m-d/297026	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Site Material Logistics student - Spain - 297315 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Site-Material-Logistics-student/297315	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Spindle Builder B (Fri-Sun 5:30am-6:00pm) - United States of America - 296143 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Spindle-Builder-B-Fri-Sun-5-30am-6-00pm/296143	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Supervisor de embarques - Mexico - 297325 - Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Supervisor-de-embarques/297325	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Working Student Category Drivetrain & Mechanicals for O&M (f/m/x) - Germany - 296955 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-Category-Drivetrain-Mechanicals-for-O-M-f-m-x/296955	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Working Student - Treasury Finance Team - Turkiye - 296264 - Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/FolderDetail/Working-Student-Treasury-Finance-Team/296264	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Search jobs at Siemens Energy and Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Jobs	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=292521	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=295993	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296075	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296099	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296143	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296179	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296264	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296291	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=295409	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296413	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296536	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296934	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=296955	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297024	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297026	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297090	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297114	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297115	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297235	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297248	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297277	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297315	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297325	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297330	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297348	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297348	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297361	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297411	0			False	Skipped noise
-	2026-06-04		Siemens	Germany	Job	Login | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297417	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297411	0			False	Skipped noise
+	2026-06-04		Siemens	Germany	Job	Login | Siemens Gamesa - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/Login?folderId=297417	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/en_US/jobs/ResumeUpload	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Empleos vacantes en Siemens Energy y Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/es_ES/jobs/Jobs	0			False	Skipped noise
 	2026-06-04		Siemens	Germany	Job	Recherchez des emplois chez Siemens Energy et Siemens Gamesa | Siemens Energy - Careers Marketplace	https://jobs.siemens-energy.com/fr_FR/jobs/Jobs	0			False	Skipped noise
@@ -615,10 +626,10 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		BAE sys	Germany	Job		https://careers.baesystems.com/life-at-bae-systems/learning-and-development	0			False	Below threshold
 2026-06-04	2026-06-04		BAE sys	Germany	Job		https://careers.baesystems.com/life-at-bae-systems/making-an-impact	0			False	Below threshold
 	2026-06-04		BAE sys	Germany	Job	Home | BAE Systems	https://jobs.baesystems.com/global/en	0			False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Master Scheduler – Production Job | Warton | BAE Systems	https://jobsearch.baesystems.com/job/master-scheduler-production-00136661	0			False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Principal Fire Safety Engineer (Assurance) Job | Barrow-in-Furness | BAE Systems	https://jobsearch.baesystems.com/job/principal-fire-safety-engineer-assurance-00136177	0			False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Project Scheduler Job | SA-Edinburgh Parks | BAE Systems	https://jobsearch.baesystems.com/job/project-scheduler-226610821	0			False	Skipped start site
-	2026-06-04		BAE sys	Germany	Job	Weapon Tech (Level 1) Job | Taif | BAE Systems	https://jobsearch.baesystems.com/job/weapon-tech-level-1-00137125	0			False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Central SHE Advisor – Governance & Systems Job | Washington | BAE Systems	https://jobsearch.baesystems.com/job/central-she-advisor-governance-systems-00136620	0			False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	English Language Instructor Job | Dhahran | BAE Systems	https://jobsearch.baesystems.com/job/english-language-instructor-00137115	0			False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Project Controls Manager Job | Portsmouth BroadOak | BAE Systems	https://jobsearch.baesystems.com/job/project-controls-manager-00136572	0			False	Skipped start site
+	2026-06-04		BAE sys	Germany	Job	Security Associate – Classifier Job | Barrow-in-Furness | BAE Systems	https://jobsearch.baesystems.com/job/security-associate-classifier-00136771	0			False	Skipped start site
 	2026-06-04		BAE sys	Germany	Job	Job Search | BAE Systems	https://jobsearch.baesystems.com/search-and-apply	0			False	Skipped start site
 2026-06-04	2026-06-04		BASF	Germany	Job	jobs at BASF - At BASF, we offer a range of exciting job opportunities!	https://basf.jobs/?locale=en_US&utm_source=careersite&utm_medium=global_en&utm_campaign=homepage_careers	0			False	Below threshold
 2026-06-04	2026-06-04		BASF	Germany	Job	jobs at BASF - At BASF, we offer a range of exciting job opportunities!	https://basf.jobs/?locale=en_US&utm_source=careersite&utm_medium=global_en&utm_campaign=homepage_careers&currentPage=1&pageSize=10&customfield1=Graduate	0			False	Below threshold
@@ -626,7 +637,7 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		BASF	Germany	Job	jobs at BASF - At BASF, we offer a range of exciting job opportunities!	https://basf.jobs/?locale=en_US&utm_source=careersite&utm_medium=global_en&utm_campaign=homepage_careers&currentPage=1&pageSize=10&customfield1=Student	0			False	Below threshold
 	2026-06-04		BASF	Germany	Job	Careers | BASF	https://www.basf.com/global/en/careers	0			False	Skipped noise
 	2026-06-04		BASF	Germany	Job	Application | BASF	https://www.basf.com/global/en/careers/application	0			False	Skipped start site
-	2026-06-04		BASF	Germany	Job	Professionals | BASF	https://www.basf.com/global/en/careers/professionals	0			False	Skipped start site
+2026-06-04	2026-06-04		BASF	Germany	Job	Professionals | BASF	https://www.basf.com/global/en/careers/professionals	0			False	Below threshold
 	2026-06-04		TGR	Germany	Job	TOYOTA RACING	https://careers.tgr-europe.com/	0			False	Skipped start site
 	2026-06-04		TGR	Germany	Job	TOYOTA RACING	https://careers.tgr-europe.com/?locale=de_DE	0			False	Skipped start site
 	2026-06-04		TGR	Germany	Job	TOYOTA RACING	https://careers.tgr-europe.com/?locale=en_US	0			False	Skipped start site
@@ -694,7 +705,6 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		MTU	Germany	Job	Finance Analyst - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/finance-analyst/	0			False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Gas Turbine Engine Mechanic - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/gas-turbine-engine-mechanic/	0			False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Group Lead - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/group-lead/	0			False	Skipped start site
-	2026-06-04		MTU	Germany	Job	GTE Apprentice - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/gte-apprentice/	0			False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Heavy Machinery Operator – Balance & Grinding (Engine Module Assembly) - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/heavy-machinery-operator-balance-grinding-engine-module-assembly/	0			False	Skipped start site
 	2026-06-04		MTU	Germany	Job	Intern - Leasing and Asset Management (all genders) - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/intern-leasing-and-asset-management-all-genders/	0			False	Skipped noise
 	2026-06-04		MTU	Germany	Job	Junior Production Planner (Accessories)-3 Year Fixed Term Contract - MTU Aero Engines	https://www.mtu.de/careers/online-job-market/job-posting/junior-production-planner-accessories-3-year-fixed-term-contract/	0			False	Skipped start site
@@ -717,6 +727,8 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		OTTO fuchs	Germany	Job	Jobs - Career - OTTO FUCHS KG	https://www.otto-fuchs.com/en/career/jobs	0			False	Skipped start site
 	2026-06-04		Rheinmetal	Germany	Job	Careers at Rheinmetall – Take on responsibility now! | Rheinmetall	https://www.rheinmetall.com/en/career	0			False	Skipped noise
 	2026-06-04		Rheinmetal	Germany	Job	Ausbildung zum Elektroniker für Geräte und Systeme ab 2026 (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/ausbildung_zum_elektroniker_fuer_geraete_und_systeme_ab_2026__m_w_d_/777998	0			False	Skipped noise
+	2026-06-04		Rheinmetal	Germany	Job	Ausbildung zum Konstruktionsmechaniker - Schweißtechnik ab 2026 (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/ausbildung_zum_konstruktionsmechaniker_schweisstechnik_ab_2026__m_w_d_/779003	0			False	Skipped noise
+	2026-06-04		Rheinmetal	Germany	Job	Ausbildung zur Fachkraft für Lagerlogistik ab 2026 (m/w/d) | Rheinmetall	https://www.rheinmetall.com/en/job/ausbildung_zur_fachkraft_fuer_lagerlogistik_ab_2026__m_w_d_/779015	0			False	Skipped noise
 	2026-06-04		e power systems	Germany	Job	Careers | e-power International	https://www.e-powerinternational.com/careers	0			False	Skipped noise
 	2026-06-04		e power systems	Germany	Job	Jobs | e-power International	https://www.e-powerinternational.com/nl/jobs	0			False	Skipped noise
 2026-06-04	2026-06-04		EDAG	Germany	Job	Career Opportunities: Initiativbewerbung EDAG Production Solutions - Schüler* (58323)	https://career5.successfactors.eu/sfcareer/jobreqcareerpvt?jobId=58323&company=edagengine&st=AAFD07FABEB8BAB32E535BF9D6569BEC9AFF038C	0			False	Below threshold
@@ -745,15 +757,6 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 2026-06-04	2026-06-04		ENERCON	Germany	Job		https://career.enercon.de?locale=tr_TR	0			False	Below threshold
 	2026-06-04		ENERCON	Germany	Job		https://career.enercon.de?locale=vi_VN	0			False	Skipped start site
 	2026-06-04		TESA	Germany	Job	Career - tesa	https://www.tesa.com/en/about-tesa/career	0			False	Skipped start site
-	2026-06-04		TESA	Germany	Job	Current Vacancies - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies	0			False	Skipped start site
-	2026-06-04		TESA	Germany	Job	KAM Automotive Italy - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/kam-automotive-italy.html	0			False	Skipped start site
-	2026-06-04		TESA	Germany	Job	Key Account Manager Nordics - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/key-account-manager-nordics.html	0			False	Skipped start site
-	2026-06-04		TESA	Germany	Job	Test Manager - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/test-manager-12439743.html	0			False	Skipped start site
-	2026-06-04		TESA	Germany	Job	Treasury Manager (m/f/d) - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/treasury-manager-m-f-d-12597210.html	0			False	Skipped start site
-	2026-06-04		TESA	Germany	Job	Werkstudent (m/w/d) Global HR Data Management - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/werkstudent-m-w-d-global-hr-data-management-12543827.html	0			False	Skipped noise
-	2026-06-04		TESA	Germany	Job	Working Student for Digital Operations (m/f/d) - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/working-student-for-digital-operations-m-f-d-12531011.html	0			False	Skipped noise
-	2026-06-04		TESA	Germany	Job	Working Student Global Logistics Operations - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/working-student-global-logistics-operations-12554731.html	0			False	Skipped noise
-	2026-06-04		TESA	Germany	Job	Working Student Pilot Center Operation & Digitalization (m/f/x) - tesa	https://www.tesa.com/en/about-tesa/career/current-vacancies/working-student-pilot-center-operation-and-digitalization-m-f-x-12591052.html	0			False	Skipped noise
 	2026-06-04		TESA	Germany	Job	Plants - tesa	https://www.tesa.com/en/about-tesa/career/plants	0			False	Skipped start site
 	2026-06-04		TESA	Germany	Job	Professionals - tesa	https://www.tesa.com/en/about-tesa/career/professionals	0			False	Skipped start site
 	2026-06-04		TESA	Germany	Job	tesa as an Employer - tesa	https://www.tesa.com/en/about-tesa/career/tesa-as-an-employer	0			False	Skipped start site
@@ -800,10 +803,12 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Helsing	Germany	Job	Compliance Verification Engineer – Helsing	https://helsing.ai/jobs/4794929101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Manager Information Security – Helsing	https://helsing.ai/jobs/4797003101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Videographer – Helsing	https://helsing.ai/jobs/4804328101	0			False	Skipped start site
+	2026-06-04		Helsing	Germany	Job	Técnico Mecatrónico - Robotics – Helsing	https://helsing.ai/jobs/4809133101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Electronics Engineer - Robotics – Helsing	https://helsing.ai/jobs/4809235101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	HRIS & Systems Lead – Helsing	https://helsing.ai/jobs/4812310101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Security Engineer – Helsing	https://helsing.ai/jobs/4813919101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Security Officer – Helsing	https://helsing.ai/jobs/4816569101	0			False	Skipped start site
+	2026-06-04		Helsing	Germany	Job	Events Manager – Helsing	https://helsing.ai/jobs/4816634101	0			False	Skipped noise
 	2026-06-04		Helsing	Germany	Job	(Senior) Expert Export Control – Helsing	https://helsing.ai/jobs/4818340101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Produktionsmitarbeiter / Monteur – Helsing	https://helsing.ai/jobs/4820991101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Schichtleiter in der Produktion – Helsing	https://helsing.ai/jobs/4823231101	0			False	Skipped start site
@@ -814,7 +819,6 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Helsing	Germany	Job	Senior SW Quality Assurance Engineer – Helsing	https://helsing.ai/jobs/4838426101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Systems Engineer - Physical Products – Helsing	https://helsing.ai/jobs/4839745101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Requirements Engineer - Physical Products – Helsing	https://helsing.ai/jobs/4839750101	0			False	Skipped start site
-	2026-06-04		Helsing	Germany	Job	Maritime Field Engineer – Helsing	https://helsing.ai/jobs/4839834101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	People Partner – Helsing	https://helsing.ai/jobs/4841824101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Industrial Security Lead – Helsing	https://helsing.ai/jobs/4842584101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Lead Electronics Engineer – Helsing	https://helsing.ai/jobs/4842641101	0			False	Skipped start site
@@ -824,6 +828,7 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Helsing	Germany	Job	Senior Programme Manager - Air Defence – Helsing	https://helsing.ai/jobs/4849032101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Proposal and Capture Manager – Helsing	https://helsing.ai/jobs/4849360101	0			False	Skipped start site
 	2026-06-04		Helsing	Germany	Job	Supply Chain Manager – Helsing	https://helsing.ai/jobs/4851120101	0			False	Skipped start site
+	2026-06-04		Helsing	Germany	Job	Hardware Engineer - Physical Products – Helsing	https://helsing.ai/jobs/4856801101	0			False	Skipped start site
 2026-06-04	2026-06-04		Airbus	Germany	Job		https://ag.wd3.myworkdayjobs.com/Airbus	0			False	Below threshold
 2026-06-04	2026-06-04		Airbus	Germany	Job		https://ag.wd3.myworkdayjobs.com/en-US/Airbus	0			False	Below threshold
 2026-06-04	2026-06-04		Airbus	Germany	Job		https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Composite-Technician-I_JR10381830	0			False	Below threshold
@@ -869,14 +874,14 @@ Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Location
 	2026-06-04		Helmholtz	Germany	Job	What defines us - Helmholtz - Association of German Research Centres	https://www.helmholtz.de/en/career/what-defines-us/	0			False	Skipped start site
 	2026-06-04		NLR	Netherlands	Job	Koninklijk Nederlands Lucht- en Ruimtevaartcentrum - PhD-position: Guided wave based inspection of components using laser ultrasonics	https://werkenbijnlr.recruitee.com/o/phd-position-guided-wave-based-inspection-of-components-using-laser-ultrasonics	0			False	Skipped start site
 	2026-06-04		NLR	Netherlands	Job	Koninklijk Nederlands Lucht- en Ruimtevaartcentrum - PhD-position: Guided wave based inspection of components using laser ultrasonics	https://werkenbijnlr.recruitee.com/o/phd-position-guided-wave-based-inspection-of-components-using-laser-ultrasonics?lang=nl	0			False	Skipped start site
-2026-06-04	2026-06-04		James Fischer	England	Job	57 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com	0			False	Below threshold
+2026-06-04	2026-06-04		James Fischer	England	Job	59 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com	0			False	Below threshold
 2026-06-04	2026-06-04		James Fischer	England	Job	Forgot Password? - James Fisher and Sons plc	https://vacancies.james-fisher.com/forgotten-password.aspx	0			False	Below threshold
 	2026-06-04		James Fischer	England	Job	Login/Register - James Fisher and Sons plc	https://vacancies.james-fisher.com/registration.aspx	0			False	Skipped noise
-2026-06-04	2026-06-04		James Fischer	England	Job	57 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx	0			False	Below threshold
+2026-06-04	2026-06-04		James Fischer	England	Job	59 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx	0			False	Below threshold
 2026-06-04	2026-06-04		James Fischer	England	Job	0 Saved Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?SavedVacancies=true	0			False	Below threshold
-2026-06-04	2026-06-04		James Fischer	England	Job	57 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=grid	0			False	Below threshold
-2026-06-04	2026-06-04		James Fischer	England	Job	57 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=map	0			False	Below threshold
-2026-06-04	2026-06-04		James Fischer	England	Job	57 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=smalllist	0			False	Below threshold
+2026-06-04	2026-06-04		James Fischer	England	Job	59 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=grid	0			False	Below threshold
+2026-06-04	2026-06-04		James Fischer	England	Job	59 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=map	0			False	Below threshold
+2026-06-04	2026-06-04		James Fischer	England	Job	59 Vacancies - James Fisher and Sons plc	https://vacancies.james-fisher.com/vacancies/vacancy-search-results.aspx?view=smalllist	0			False	Below threshold
 2026-06-04	2026-06-04		James Fischer	England	Job	Service unavailable	https://www.james-fisher.com/careers/	0			False	Below threshold
 	2026-06-04		Allegis	England	Job	Jobs - Allegis Global Solutions	https://www.allegisglobalsolutions.com/en-au/about-us/jobs	0			False	Skipped start site
 	2026-06-04		Allegis	England	Job	Jobs - Allegis Global Solutions	https://www.allegisglobalsolutions.com/en-gb/about-us/jobs	0			False	Skipped start site
