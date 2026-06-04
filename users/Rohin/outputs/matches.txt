@@ -1,0 +1,4 @@
+Date	CrawlDate	PostedDate	Company	Country	Type	Title	URL	Score	Keywords	Locations	Matched	Decision
+2026-06-04	2026-06-04		Grob Aircraft	Germany	Job	Service Technician Simulator and Training Systems (m/f/x) - Grob Aircraft SE	https://jobs.grob-aircraft.com/jobs/7813056-service-technician-simulator-and-training-systems-m-f-x	40	Simulation, Design	Germany	True	Matched
+2026-06-04	2026-06-04		Rocket Factory	Germany	Job	Job Application for Ground Systems Engineer (m/f/d) at Rocket Factory Augsburg AG	https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4848275101	40	Fluid, Design	Germany	True	Matched
+2026-06-04	2026-06-04		ÒKAPI	Germany	Job	Mission Design Engineer (m/w/d) | Jobs at OKAPI:Orbits GmbH	https://okapiorbits.jobs.personio.de/job/2171060	40	Simulation, Design	Germany	True	Matched

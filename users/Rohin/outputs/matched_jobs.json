@@ -1,0 +1,47 @@
+[
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Grob Aircraft",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Service Technician Simulator and Training Systems (m/f/x) - Grob Aircraft SE",
+    "URL": "https://jobs.grob-aircraft.com/jobs/7813056-service-technician-simulator-and-training-systems-m-f-x",
+    "Score": 40,
+    "Keywords": "Simulation, Design",
+    "Locations": "Germany",
+    "Matched": true,
+    "Decision": "Matched"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "Rocket Factory",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Job Application for Ground Systems Engineer (m/f/d) at Rocket Factory Augsburg AG",
+    "URL": "https://job-boards.eu.greenhouse.io/rocketfactoryaugsburgag/jobs/4848275101",
+    "Score": 40,
+    "Keywords": "Fluid, Design",
+    "Locations": "Germany",
+    "Matched": true,
+    "Decision": "Matched"
+  },
+  {
+    "Date": "2026-06-04",
+    "CrawlDate": "2026-06-04",
+    "PostedDate": "",
+    "Company": "ÒKAPI",
+    "Country": "Germany",
+    "Type": "Job",
+    "Title": "Mission Design Engineer (m/w/d) | Jobs at OKAPI:Orbits GmbH",
+    "URL": "https://okapiorbits.jobs.personio.de/job/2171060",
+    "Score": 40,
+    "Keywords": "Simulation, Design",
+    "Locations": "Germany",
+    "Matched": true,
+    "Decision": "Matched"
+  }
+]
