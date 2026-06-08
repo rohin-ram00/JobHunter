@@ -1,4 +1,137 @@
 {
+    "https://www.ep-group.de/job/BE1382409": {
+        "title": "Softwareentwickler .NET / Backend Developer (m/w/d)",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 40,
+        "company": "EP Mannheim"
+    },
+    "https://www.ep-group.de/job/MA1382415": {
+        "title": "Software Engineer C++ Simulation/Distributed Systems (m/w/d)",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 100,
+        "company": "EP Mannheim"
+    },
+    "https://www.rheinmetall.com/en/job/technischer_pruefer_f_35__m_w_d_/772148": {
+        "title": "Technischer Pr\u00fcfer F-35 (m/w/d) | Rheinmetall",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 45,
+        "company": "Rheinmetal"
+    },
+    "https://jobs.fraunhofer.de/job/Bochum-Wissenschaftlicher-Mitarbeiterin-im-Bereich-Geothermie-und-Hydrogeologie-44801/1401873333/": {
+        "title": "Wissenschaftliche*r Mitarbeiter*in im Bereich Geothermie und Hydrogeologie Stellendetails | Fraunhofer-Gesellschaft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 80,
+        "company": "Fraunhofer"
+    },
+    "https://jobs.fraunhofer.de/job/Freiburg-Wissenschaftlicher-Mitarbeiter-%28all-genders%29-Systemorientierte-Hochfrequenz-Schaltungen-79108/1401915933/": {
+        "title": "Wissenschaftlicher Mitarbeiter (all genders) - Systemorientierte Hochfrequenz-Schaltungen Stellendetails | Fraunhofer-Gesellschaft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 85,
+        "company": "Fraunhofer"
+    },
+    "https://jobs.fraunhofer.de/job/Freising-Bachelorand-Masterand-Evaluation-von-Verpackungskonzepten-f%C3%BCr-Fresh-Cut-Salate-%28all-genders%29-85354/1373549433/": {
+        "title": "Bachelorand / Masterand - Evaluation von Verpackungskonzepten f\u00fcr Fresh-Cut-Salate (all genders) Stellendetails | Fraunhofer-Gesellschaft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 40,
+        "company": "Fraunhofer"
+    },
+    "https://www.enginsoft.com/careers/career.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 65,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 65,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/java-full-stack-developer.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 210,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/junior-hpc-engineer.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 115,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/mechanical-application-engineer.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 65,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/net-full-stack-developer-middle.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 105,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/senior-sales-manager-ict-e-system-integration.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 65,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/sistemista-it-infrastructure-operations-specialist.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 65,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/tecnico-sistemista-hpc.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 60,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/vertriebsassistent-sales-administrator.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 105,
+        "company": "Enginsoft"
+    },
+    "https://www.enginsoft.com/careers/careers/vertriebsbeauftragter-simulationslosungen.html": {
+        "title": "Technology transfer and simulation software solutions | EnginSoft",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 65,
+        "company": "Enginsoft"
+    },
+    "https://aconext.de/en/jobs/": {
+        "title": "Career | Aconext",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 95,
+        "company": "Aconext"
+    },
+    "https://aconext.de/en/jobs?job-category=berufserfahren&job-employment-type=default&job-industry=default": {
+        "title": "Career | Aconext",
+        "first_seen": "2026-06-08",
+        "posted_date": "",
+        "score": 95,
+        "company": "Aconext"
+    },
     "https://www.rheinmetall.com/en/job/sap_q_modul_key_user__m_w_d_/771131": {
         "title": "SAP Q-Modul Key-User (m/w/d) | Rheinmetall",
         "first_seen": "2026-06-05",
